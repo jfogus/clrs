@@ -1,0 +1,95 @@
+{
+ "race": "2014 Frozen Frenzy 5k",
+ "results": [
+  {
+   "name": "Gavin Gresham",
+   "category": "Male 16-19",
+   "time": "00:44:23"
+  },
+  {
+   "name": "Alejandro Miller",
+   "category": "Male 16-19",
+   "time": "00:47:53"
+  },
+  {
+   "name": "Marc Britten",
+   "category": "Male 30-39",
+   "time": "00:58:24"
+  },
+  {
+   "name": "Brian Skukities",
+   "category": "Male 30-39",
+   "time": "00:59:07"
+  },
+  {
+   "name": "Deborah Brann",
+   "category": "Female 40-49",
+   "time": "01:02:07"
+  },
+  {
+   "name": "Michael Walker",
+   "category": "Male 50-59",
+   "time": "01:04:51"
+  },
+  {
+   "name": "Jessica Austin",
+   "category": "Female 20-29",
+   "time": "01:06:16"
+  },
+  {
+   "name": "Jackson Keelor",
+   "category": "Male 15 Under",
+   "time": "01:08:54"
+  },
+  {
+   "name": "Stefan Barkow",
+   "category": "Male 20-29",
+   "time": "01:11:37"
+  },
+  {
+   "name": "Jennifer Boster",
+   "category": "Female 30-39",
+   "time": "01:13:14"
+  },
+  {
+   "name": "Debbie Melendez",
+   "category": "Female 40-49",
+   "time": "01:17:23"
+  },
+  {
+   "name": "Debra Kerwin",
+   "category": "Female 40-49",
+   "time": "01:17:24"
+  },
+  {
+   "name": "Jessia Disterheft",
+   "category": "Female 30-39",
+   "time": "01:21:16"
+  },
+  {
+   "name": "Tom Hutmacher",
+   "category": "Male 60-69",
+   "time": "01:22:43"
+  },
+  {
+   "name": "Garett Hotovy",
+   "category": "Male 15 Under",
+   "time": "01:23:07"
+  },
+  {
+   "name": "Becky Hotovy",
+   "category": "Female 30-39",
+   "time": "01:25:07"
+  },
+  {
+   "name": "Thomas Taylor",
+   "category": "Male 20-29",
+   "time": "01:25:07"
+  },
+  {
+   "name": "Jerry Ezell",
+   "category": "Male 60-69",
+   "time": "02:03:22"
+  }
+ ]
+}

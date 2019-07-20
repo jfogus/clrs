@@ -1,0 +1,642 @@
+{
+ "races": [
+  {
+   "name": "2011 Creek Ridge 5k",
+   "date": "2011-01-01",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2012 Let Loose Liberty 5k",
+   "date": "2012-01-01",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2012 Creek Ridge 5k",
+   "date": "2012-01-02",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2012 Crazy Legs 5k",
+   "date": "2012-01-03",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2012 Turkey Recovery 5k",
+   "date": "2012-01-04",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2013 Crazy Legs 10k+",
+   "date": "2013-01-01",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2013 Jennie Hamilton Memorial 5k",
+   "date": "2013-01-02",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2013 Bigfoot/Walk Down the Aisle 5k",
+   "date": "2013-01-03",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2013 Hobgoblin 10k",
+   "date": "2013-01-04",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2013 Turkey Recovery 5k",
+   "date": "2013-01-05",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2013 Jingle Run 5k",
+   "date": "2013-01-06",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2014 Frozen Feet 5k",
+   "date": "2014-01-01",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2014 Frozen Frenzy 5k",
+   "date": "2014-01-02",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2014 Forrest Gump Hump 5k",
+   "date": "2014-01-03",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2014 Crazy Legs 10k+",
+   "date": "2014-01-04",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2014 St Stanislaus/Trail Creek 5k Run/Walk",
+   "date": "2014-01-05",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2014 Jennie Hamilton Memorial 5 Mile",
+   "date": "2014-01-06",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2014 Running with the Big Dogs 5k",
+   "date": "2014-01-07",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2014 Crazy Legs 8k",
+   "date": "2014-01-08",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2014 Absolute Fitness 5k",
+   "date": "2014-01-09",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2014 Bigfoot 5k",
+   "date": "2014-01-10",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2014 Superhero Undie 5k",
+   "date": "2014-01-11",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2014 Turkey Recovery 5k",
+   "date": "2014-01-12",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2015 Frozen Feet 5k",
+   "date": "2015-01-01",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2015 Yeti 4 Mile",
+   "date": "2015-01-02",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2015 Forrest Gump Hump 5k",
+   "date": "2015-01-03",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2015 Crazy Legs 10k+",
+   "date": "2015-01-04",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2015 St Stans 5k",
+   "date": "2015-01-05",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2015 Jennie Hamilton Memorial 5 Mile",
+   "date": "2015-01-06",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2015 Running with the Big Dogs 5k",
+   "date": "2015-01-07",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2015 Stache Dash 4 Mile",
+   "date": "2015-01-08",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2015 Bigfoot 5k",
+   "date": "2015-01-09",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2015 Superhero 5k",
+   "date": "2015-01-10",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2015 Black Cat Strut 5k",
+   "date": "2015-01-11",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2015 Turkey Recovery 4 Mile",
+   "date": "2015-01-12",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2016 Frozen Feet 5k",
+   "date": "2016-01-01",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2016 Yeti 4 Mile",
+   "date": "2016-01-02",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2016 Crazy 8s",
+   "date": "2016-01-03",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2016 Forrest Gump Hump 5k",
+   "date": "2016-01-04",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2016 Jennie Hamilton Memorial 5 Mile",
+   "date": "2016-01-05",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2016 Running with the Big Dogs 5k",
+   "date": "2016-01-06",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2016 Bigfoot 5k",
+   "date": "2016-01-07",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2016 Stache Dash 4 Mile",
+   "date": "2016-01-08",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2016 Black Cat Strut 5k",
+   "date": "2016-01-09",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2016 IG 50k",
+   "date": "2016-01-10",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2016 IG 8 Mile",
+   "date": "2016-01-11",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2016 Turkey Recovery 4 Mile",
+   "date": "2016-01-12",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2017 Running for Alexandria 5k",
+   "date": "2017-01-01",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2017 Crazy Legs 5k",
+   "date": "2017-01-02",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2017 Yeti Trail Half",
+   "date": "2017-01-03",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2017 Jennie Hamilton Memorial 5 Mile",
+   "date": "2017-01-04",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2017 Forrest Gump Hump 5k",
+   "date": "2017-01-05",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2017 Stache Dash 4 Mile",
+   "date": "2017-01-06",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2017 Bigfoot 5k",
+   "date": "2017-01-07",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2017 Black Cat Strut 5k",
+   "date": "2017-01-08",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2017 IG 8 Mile",
+   "date": "2017-01-09",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2017 IG 50k",
+   "date": "2017-01-10",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2017 Turkey Recovery 4 Mile",
+   "date": "2017-01-11",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2017 Santa Dash 5k",
+   "date": "2017-01-12",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2018 I Love Coffee 5k",
+   "date": "2018-01-01",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2018 Yeti Half",
+   "date": "2018-01-02",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2018 Forrest Gump Hump 5k",
+   "date": "2018-01-03",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2018 Jennie Hamilton Memorial 5 Mile",
+   "date": "2018-01-04",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2018 Crazy Legs 10k",
+   "date": "2018-01-05",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2018 Stache Dash 4 Mile",
+   "date": "2018-01-06",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2018 Bigfoot 5k",
+   "date": "2018-01-07",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2018 Black Cat Strut 5k",
+   "date": "2018-01-08",
+   "time": "00:00",
+   "park": null,
+   "form": null,
+   "fees": []
+  },
+  {
+   "name": "2018 Crazy Legs 4 Mile Night Run",
+   "date": "2018-11-10",
+   "time": "05:00",
+   "park": 1,
+   "form": "https://raceroster.com/events/2018/15618/crazy-legs-4-mile-night-run",
+   "fees": [
+    "20.00 person by Oct 30, 2018",
+    "25.00 person after Oct 30, 2018"
+   ]
+  },
+  {
+   "name": "2018 Turkey Recovery 4 Miler",
+   "date": "2018-11-25",
+   "time": "09:00",
+   "park": 2,
+   "form": "https://raceroster.com/events/2018/16917/turkey-recovery-4-miler",
+   "fees": [
+    "20.00 person by Nov 11, 2018",
+    "25.00 person after Nov 11, 2018"
+   ]
+  },
+  {
+   "name": "2018 Santa Dash 5k",
+   "date": "2018-12-16",
+   "time": "09:00",
+   "park": 3,
+   "form": "https://raceroster.com/events/2018/16919/santa-dash-trail-5k",
+   "fees": [
+    "20.00 person by Dec 2, 2018",
+    "25.00 person after Dec 2, 2018"
+   ]
+  },
+  {
+   "name": "2019 I Love Coffee 5k",
+   "date": "2019-01-27",
+   "time": "09:00",
+   "park": 2,
+   "form": "https://raceroster.com/events/2019/19844/i-love-coffee-5k?fbclid=IwAR3dY7v_Qf9W0cdg8BJit8_CVmYaFEP4D2FfRZqcgqrBQ2vQGDCiIQOqk1E",
+   "fees": [
+    "20.00 person by Jan 8, 2019",
+    "25.00 person after Jan 8, 2019"
+   ]
+  },
+  {
+   "name": "2019 Yeti Trail Half",
+   "date": "2019-02-24",
+   "time": "08:00",
+   "park": 4,
+   "form": "https://raceroster.com/events/2019/20330/yeti-trail-half?fbclid=IwAR36YP_NVlBSJhakkVaQzqS_422Fp8aQVDQz0szlDW6IuUmolXxJndWa7JE",
+   "fees": [
+    "40.00 person by Dec 23, 2018",
+    "50.00 person after Dec 23, 2018",
+    "60.00 person after Feb 13, 2019"
+   ]
+  },
+  {
+   "name": "2019 Forrest Gump Hump 5k",
+   "date": "2019-03-03",
+   "time": "09:00",
+   "park": 5,
+   "form": "https://raceroster.com/events/2019/20373/forrest-gump-hump-5k-trail-run",
+   "fees": [
+    "20.00 person by Feb 24, 2019",
+    "25.00 person after Feb 24, 2019"
+   ]
+  },
+  {
+   "name": "2019 Crazy Legs 10k+",
+   "date": "2019-06-02",
+   "time": "07:00",
+   "park": 6,
+   "form": "https://raceroster.com/events/2019/20403/crazy-legs-10k-trail-run",
+   "fees": [
+    "55.00 person by Jan 1, 2019",
+    "65.00 person after Jan 1, 2019"
+   ]
+  },
+  {
+   "name": "2019 Love is Love 5k Run/Walk",
+   "date": "2019-06-30",
+   "time": "08:00",
+   "park": 4,
+   "form": "https://raceroster.com/events/2019/23344/love-is-love-5k-runwalk",
+   "fees": [
+    "10.00 walker by Jun 1, 2019",
+    "15.00 walker after Jun 1, 2019",
+    "20.00 runner by Jun 1, 2019",
+    "25.00 runner after Jun 1, 2019"
+   ]
+  },
+  {
+   "name": "2019 Jennie Hamilton Memorial 5 Miler",
+   "date": "2019-07-07",
+   "time": "08:00",
+   "park": 7,
+   "form": "https://raceroster.com/events/2019/20970/jennie-hamilton-memorial-5-mile-trail-run",
+   "fees": [
+    "20.00 person by Jun 18, 2019",
+    "25.00 person after Jun 18, 2019"
+   ]
+  }
+ ]
+}

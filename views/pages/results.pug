@@ -1,0 +1,37 @@
+extends ../templates/default.pug
+
+block prepend nav
+    -var path = '../';
+    -var resultsActive = " active";
+
+block append main
+    div(class='results_content container' id='results')
+        div(class='text-center')
+            div(class='btn-group' role='group')
+                each year in Object.keys(results).sort().reverse()
+                    div(class='btn-group' role='group')
+                        button(class='btn btn-secondary dropdown-toggle' data-toggle='dropdown')= year
+                        div(class='dropdown-menu')
+                            each race in results[year]
+                                a(class='dropdown-item result_link' href='#' + race.name.replace(/-| |\+|\//g, '_'))= race.name
+
+        div(class='results_container')
+            each year in Object.keys(results).sort().reverse()
+                each i in Object.keys(results[year]).sort().reverse()
+                    -var race = results[year][i]
+                    div(class='result' id=race.name.replace(/-| |\+|\//g, '_'))
+                        h3= race.name
+                        table(class='table table-striped')
+                            thead
+                                tr
+                                    th Place
+                                    th Runner
+                                    th Category
+                                    th Time
+                            tbody
+                                each result, place in race.results
+                                    tr
+                                        td= place + 1
+                                        td= result.name
+                                        td= result.category
+                                        td= result.time

@@ -1,0 +1,90 @@
+{
+ "race": "2018 Crazy Legs 4 Mile Night Run",
+ "results": [
+  {
+   "name": "Chris Kennedy",
+   "category": "Male 50-59",
+   "time": "00:29:06"
+  },
+  {
+   "name": "Mark Connors",
+   "category": "Male 40-49",
+   "time": "00:37:36"
+  },
+  {
+   "name": "Eric Ginburg",
+   "category": "Male 50-59",
+   "time": "00:38:02"
+  },
+  {
+   "name": "Kaila Duel",
+   "category": "Female 20-29",
+   "time": "00:38:30"
+  },
+  {
+   "name": "Nieves Amado Gomez",
+   "category": "Female 40-49",
+   "time": "00:38:32"
+  },
+  {
+   "name": "Craig Miller",
+   "category": "Male 50-59",
+   "time": "00:40:01"
+  },
+  {
+   "name": "Steve Kearney",
+   "category": "Male 70+",
+   "time": "00:40:06"
+  },
+  {
+   "name": "Doyll Andrews",
+   "category": "Male 40-49",
+   "time": "00:40:13"
+  },
+  {
+   "name": "Jonny Stimley",
+   "category": "Male 40-49",
+   "time": "00:40:52"
+  },
+  {
+   "name": "John Stevens",
+   "category": "Male 60-69",
+   "time": "00:41:06"
+  },
+  {
+   "name": "Todd Bailey",
+   "category": "Male 50-59",
+   "time": "00:44:03"
+  },
+  {
+   "name": "Shirely Fosler",
+   "category": "Female 50-59",
+   "time": "00:45:25"
+  },
+  {
+   "name": "Polly Theising",
+   "category": "Female 60-69",
+   "time": "01:01:13"
+  },
+  {
+   "name": "Carol Magill",
+   "category": "Female 60-69",
+   "time": "01:01:20"
+  },
+  {
+   "name": "Karen Cerone",
+   "category": "Female 40-49",
+   "time": "01:01:55"
+  },
+  {
+   "name": "David Ralston",
+   "category": "Male 70+",
+   "time": "01:11:57"
+  },
+  {
+   "name": "Jane Fuller",
+   "category": "Female 70+",
+   "time": "01:12:04"
+  }
+ ]
+}

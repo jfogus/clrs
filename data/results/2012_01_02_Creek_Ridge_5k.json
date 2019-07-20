@@ -1,0 +1,75 @@
+{
+ "race": "2012 Creek Ridge 5k",
+ "results": [
+  {
+   "name": "Troy Hill",
+   "category": "Male 20-29",
+   "time": "00:23:19"
+  },
+  {
+   "name": "Steven Lawson",
+   "category": "Male 40-49",
+   "time": "00:23:27"
+  },
+  {
+   "name": "Tim Kulesa",
+   "category": "Male 40-49",
+   "time": "00:23:45"
+  },
+  {
+   "name": "Aaron Paape",
+   "category": "Male 30-39",
+   "time": "00:23:55"
+  },
+  {
+   "name": "Brittaney Humphrey",
+   "category": "Female 20-29",
+   "time": "00:25:42"
+  },
+  {
+   "name": "Michael Martinez",
+   "category": "Male 30-39",
+   "time": "00:28:35"
+  },
+  {
+   "name": "Kyle Nole",
+   "category": "Male 16-19",
+   "time": "00:29:51"
+  },
+  {
+   "name": "Vince Nelson",
+   "category": "Male 40-49",
+   "time": "00:30:00"
+  },
+  {
+   "name": "Eric Mosak",
+   "category": "Male 30-39",
+   "time": "00:30:17"
+  },
+  {
+   "name": "Amber Zeedyk",
+   "category": "Female 20-29",
+   "time": "00:37:50"
+  },
+  {
+   "name": "Kelly Martinez",
+   "category": "Female 20-29",
+   "time": "00:38:00"
+  },
+  {
+   "name": "Candy Smith",
+   "category": "Female 30-39",
+   "time": "00:41:37"
+  },
+  {
+   "name": "Lorie Arnold",
+   "category": "Female 40-49",
+   "time": "00:44:15"
+  },
+  {
+   "name": "Katie Tsarnas",
+   "category": "Female 15 Under",
+   "time": "00:44:29"
+  }
+ ]
+}

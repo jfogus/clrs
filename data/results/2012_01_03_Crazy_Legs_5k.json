@@ -1,0 +1,95 @@
+{
+ "race": "2012 Crazy Legs 5k",
+ "results": [
+  {
+   "name": "Lucas Sullivan",
+   "category": "Male 16-19",
+   "time": "00:24:36"
+  },
+  {
+   "name": "Matt McCluskey",
+   "category": "Male 20-29",
+   "time": "00:26:00"
+  },
+  {
+   "name": "Brian Norrick",
+   "category": "Male 50-59",
+   "time": "00:28:50"
+  },
+  {
+   "name": "Craig Miller",
+   "category": "Male 50-59",
+   "time": "00:30:39"
+  },
+  {
+   "name": "Tom Little",
+   "category": "Male 30-39",
+   "time": "00:35:39"
+  },
+  {
+   "name": "Bill Dickinson",
+   "category": "Male 30-39",
+   "time": "00:35:45"
+  },
+  {
+   "name": "Brian Fozkos",
+   "category": "Male 40-49",
+   "time": "00:36:11"
+  },
+  {
+   "name": "Sarah Lawson",
+   "category": "Female 30-39",
+   "time": "00:38:13"
+  },
+  {
+   "name": "David Hiestand",
+   "category": "Male 30-39",
+   "time": "00:38:22"
+  },
+  {
+   "name": "Erin Christ",
+   "category": "Female 30-39",
+   "time": "00:38:31"
+  },
+  {
+   "name": "Terri Davis",
+   "category": "Female 40-49",
+   "time": "00:38:38"
+  },
+  {
+   "name": "Mike Steinhubel",
+   "category": "Male 40-49",
+   "time": "00:38:58"
+  },
+  {
+   "name": "Carrie Rebich",
+   "category": "Female 30-39",
+   "time": "00:40:19"
+  },
+  {
+   "name": "Anita Brower",
+   "category": "Female 60-69",
+   "time": "00:43:46"
+  },
+  {
+   "name": "Lorie Arnold",
+   "category": "Female 40-49",
+   "time": "00:43:48"
+  },
+  {
+   "name": "Brianne Dickinson",
+   "category": "Female 15 Under",
+   "time": "00:54:15"
+  },
+  {
+   "name": "Helen Jackson",
+   "category": "Female 15 Under",
+   "time": "00:54:30"
+  },
+  {
+   "name": "Jessica Dickinson",
+   "category": "Female 30-39",
+   "time": "00:54:44"
+  }
+ ]
+}

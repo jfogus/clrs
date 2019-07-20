@@ -1,0 +1,290 @@
+{
+ "race": "2012 Let Loose Liberty 5k",
+ "results": [
+  {
+   "name": "David Bernard",
+   "category": "Male 30-39",
+   "time": "00:20:22"
+  },
+  {
+   "name": "Kendal Gulbrandsen",
+   "category": "Male 20-29",
+   "time": "00:21:25"
+  },
+  {
+   "name": "Natalie Krouse",
+   "category": "Female 30-39",
+   "time": "00:24:12"
+  },
+  {
+   "name": "Bill Schott",
+   "category": "Male 40-49",
+   "time": "00:24:28"
+  },
+  {
+   "name": "Israel Toledo",
+   "category": "Male 60-69",
+   "time": "00:24:32"
+  },
+  {
+   "name": "Steve Lawson",
+   "category": "Male 40-49",
+   "time": "00:24:46"
+  },
+  {
+   "name": "Aaron Paade",
+   "category": "Male 30-39",
+   "time": "00:25:14"
+  },
+  {
+   "name": "John Salzeider",
+   "category": "Male 40-49",
+   "time": "00:25:27"
+  },
+  {
+   "name": "Jon Kosmatka",
+   "category": "Male 60-69",
+   "time": "00:26:02"
+  },
+  {
+   "name": "Jennifer Schott",
+   "category": "Female 40-49",
+   "time": "00:26:10"
+  },
+  {
+   "name": "Don Gulbrandsen",
+   "category": "Male 40-49",
+   "time": "00:26:14"
+  },
+  {
+   "name": "David Novak",
+   "category": "Male 30-39",
+   "time": "00:26:25"
+  },
+  {
+   "name": "Eric Salzeider",
+   "category": "Male 15 Under",
+   "time": "00:26:36"
+  },
+  {
+   "name": "Dean Button",
+   "category": "Male 40-49",
+   "time": "00:27:49"
+  },
+  {
+   "name": "Annalise James",
+   "category": "Female 15 Under",
+   "time": "00:27:59"
+  },
+  {
+   "name": "Angela James",
+   "category": "Female 30-39",
+   "time": "00:28:25"
+  },
+  {
+   "name": "Bob Goldstein",
+   "category": "Male 30-39",
+   "time": "00:29:11"
+  },
+  {
+   "name": "Nick Dvorscak",
+   "category": "Male 50-59",
+   "time": "00:29:13"
+  },
+  {
+   "name": "Bert Yothment",
+   "category": "Male 50-59",
+   "time": "00:29:16"
+  },
+  {
+   "name": "Teri Davis",
+   "category": "Female 40-49",
+   "time": "00:29:26"
+  },
+  {
+   "name": "Ruben Sanchez",
+   "category": "Male 50-59",
+   "time": "00:29:29"
+  },
+  {
+   "name": "David Wolfe",
+   "category": "Male 40-49",
+   "time": "00:29:41"
+  },
+  {
+   "name": "Timothy James",
+   "category": "Male 30-39",
+   "time": "00:30:31"
+  },
+  {
+   "name": "Lydia Sandoval",
+   "category": "Female 50-59",
+   "time": "00:30:48"
+  },
+  {
+   "name": "Ashlyn Lythgoe",
+   "category": "Female 15 Under",
+   "time": "00:30:54"
+  },
+  {
+   "name": "Donald Erwin",
+   "category": "Male 60-69",
+   "time": "00:31:29"
+  },
+  {
+   "name": "Sara Erwin",
+   "category": "Female 15 Under",
+   "time": "00:31:29"
+  },
+  {
+   "name": "Sylvia LaFitte",
+   "category": "Female 40-49",
+   "time": "00:32:14"
+  },
+  {
+   "name": "Cliff Hutchison",
+   "category": "Male 40-49",
+   "time": "00:32:43"
+  },
+  {
+   "name": "Sandra Hackett",
+   "category": "Female 50-59",
+   "time": "00:34:06"
+  },
+  {
+   "name": "Michele Dvorscak",
+   "category": "Female 40-49",
+   "time": "00:34:16"
+  },
+  {
+   "name": "Olga Felton",
+   "category": "Female 50-59",
+   "time": "00:34:21"
+  },
+  {
+   "name": "Linda Ramos",
+   "category": "Female 50-59",
+   "time": "00:34:46"
+  },
+  {
+   "name": "Eric Mosak",
+   "category": "Male 30-39",
+   "time": "00:34:46"
+  },
+  {
+   "name": "Amanda Johnston",
+   "category": "Female 30-39",
+   "time": "00:34:57"
+  },
+  {
+   "name": "Tim Meyer",
+   "category": "Male 40-49",
+   "time": "00:35:05"
+  },
+  {
+   "name": "Catherine Olsen",
+   "category": "Female 30-39",
+   "time": "00:35:10"
+  },
+  {
+   "name": "Kim Power",
+   "category": "Female 30-39",
+   "time": "00:35:11"
+  },
+  {
+   "name": "Connie Karras",
+   "category": "Female 40-49",
+   "time": "00:35:38"
+  },
+  {
+   "name": "Katie Govert",
+   "category": "Female 20-29",
+   "time": "00:35:38"
+  },
+  {
+   "name": "Lorie Arnold",
+   "category": "Female 40-49",
+   "time": "00:35:43"
+  },
+  {
+   "name": "Tari Gulbrandsen",
+   "category": "Female 40-49",
+   "time": "00:36:00"
+  },
+  {
+   "name": "Jean Dohmeier",
+   "category": "Female 50-59",
+   "time": "00:36:06"
+  },
+  {
+   "name": "Michael Novak",
+   "category": "Male 16-19",
+   "time": "00:36:26"
+  },
+  {
+   "name": "Candy Smith",
+   "category": "Female 30-39",
+   "time": "00:36:46"
+  },
+  {
+   "name": "Jose Lopez",
+   "category": "Male 50-59",
+   "time": "00:37:29"
+  },
+  {
+   "name": "John Ulett",
+   "category": "Male 50-59",
+   "time": "00:38:54"
+  },
+  {
+   "name": "Michael Moskalick",
+   "category": "Male 60-69",
+   "time": "00:39:25"
+  },
+  {
+   "name": "Linda Erwin",
+   "category": "Female 40-49",
+   "time": "00:40:25"
+  },
+  {
+   "name": "Lucy Martinez",
+   "category": "Female 40-49",
+   "time": "00:41:49"
+  },
+  {
+   "name": "Liz Goral",
+   "category": "Female 40-49",
+   "time": "00:41:56"
+  },
+  {
+   "name": "Cindy Hall",
+   "category": "Female 50-59",
+   "time": "00:41:59"
+  },
+  {
+   "name": "Diane Kellenburger",
+   "category": "Female 60-69",
+   "time": "00:46:16"
+  },
+  {
+   "name": "Patty Wargo",
+   "category": "Female 40-49",
+   "time": "00:50:07"
+  },
+  {
+   "name": "Carol Jackson",
+   "category": "Female 50-59",
+   "time": "00:50:08"
+  },
+  {
+   "name": "Rudy Moyado",
+   "category": "Female 50-59",
+   "time": "00:50:28"
+  },
+  {
+   "name": "Bob Hooper",
+   "category": "Male 70+",
+   "time": "00:50:35"
+  }
+ ]
+}

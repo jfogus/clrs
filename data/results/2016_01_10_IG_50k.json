@@ -1,0 +1,75 @@
+{
+ "race": "2016 IG 50k",
+ "results": [
+  {
+   "name": "Justin Senkbeil",
+   "category": "Male 30-39",
+   "time": "05:27:02"
+  },
+  {
+   "name": "Wojciech Lenart",
+   "category": "Male 40-49",
+   "time": "05:56:17"
+  },
+  {
+   "name": "Jana Cram",
+   "category": "Female 30-39",
+   "time": "06:05:47"
+  },
+  {
+   "name": "Joe Reeves",
+   "category": "Male 40-49",
+   "time": "06:13:14"
+  },
+  {
+   "name": "Tommy Ferry",
+   "category": "Male 30-39",
+   "time": "06:33:10"
+  },
+  {
+   "name": "Brent Henderson",
+   "category": "Male 30-39",
+   "time": "07:08:14"
+  },
+  {
+   "name": "Corey Baker",
+   "category": "Male 40-49",
+   "time": "07:09:12"
+  },
+  {
+   "name": "Annie Newman",
+   "category": "Female 40-49",
+   "time": "07:14:10"
+  },
+  {
+   "name": "Adam Turner",
+   "category": "Male 30-39",
+   "time": "07:16:24"
+  },
+  {
+   "name": "Michael Glennon",
+   "category": "Male 40-49",
+   "time": "07:17:22"
+  },
+  {
+   "name": "Randall Yost",
+   "category": "Male 50-59",
+   "time": "07:19:22"
+  },
+  {
+   "name": "Steve Lafrentz",
+   "category": "Male 50-59",
+   "time": "07:24:12"
+  },
+  {
+   "name": "Laura Hufschmidt",
+   "category": "Female 30-39",
+   "time": "07:44:12"
+  },
+  {
+   "name": "Victoria Vinet",
+   "category": "Female 40-49",
+   "time": "07:45:25"
+  }
+ ]
+}

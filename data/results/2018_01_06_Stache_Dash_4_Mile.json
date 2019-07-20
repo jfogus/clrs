@@ -1,0 +1,125 @@
+{
+ "race": "2018 Stache Dash 4 Mile",
+ "results": [
+  {
+   "name": "Steven Burgarin",
+   "category": "Male 30-39",
+   "time": "00:25:23"
+  },
+  {
+   "name": "Derek Hat",
+   "category": "Male 40-49",
+   "time": "00:29:14"
+  },
+  {
+   "name": "Jana Cram",
+   "category": "Female 30-39",
+   "time": "00:30:03"
+  },
+  {
+   "name": "Leslie Tyburski",
+   "category": "Female 30-39",
+   "time": "00:30:45"
+  },
+  {
+   "name": "Jody Brown",
+   "category": "Female 40-49",
+   "time": "00:33:13"
+  },
+  {
+   "name": "Sommer Watt-Forgey",
+   "category": "Female 30-39",
+   "time": "00:33:27"
+  },
+  {
+   "name": "Ben Forgey",
+   "category": "Male 40-49",
+   "time": "00:33:27"
+  },
+  {
+   "name": "Tim Kulesa",
+   "category": "Male 50-59",
+   "time": "00:34:55"
+  },
+  {
+   "name": "Marialena Nagel",
+   "category": "Female 30-39",
+   "time": "00:36:06"
+  },
+  {
+   "name": "Tj Simms",
+   "category": "Male 40-49",
+   "time": "00:36:44"
+  },
+  {
+   "name": "Eve Wierzbicki",
+   "category": "Female 50-59",
+   "time": "00:36:58"
+  },
+  {
+   "name": "Patty Rawlings",
+   "category": "Female 50-59",
+   "time": "00:38:27"
+  },
+  {
+   "name": "Ben Aitchison",
+   "category": "Male 15 Under",
+   "time": "00:40:13"
+  },
+  {
+   "name": "Stephanie Crook",
+   "category": "Female 30-39",
+   "time": "00:40:41"
+  },
+  {
+   "name": "Isabella Paape",
+   "category": "Female 15 Under",
+   "time": "00:41:17"
+  },
+  {
+   "name": "Lucia Zook",
+   "category": "Female 20-29",
+   "time": "00:42:30"
+  },
+  {
+   "name": "Jimmy Lolkema",
+   "category": "Male 30-39",
+   "time": "00:42:30"
+  },
+  {
+   "name": "Julie Foster",
+   "category": "Female 30-39",
+   "time": "00:45:05"
+  },
+  {
+   "name": "Allen Rawlings",
+   "category": "Male 50-59",
+   "time": "00:49:05"
+  },
+  {
+   "name": "Kassandra Mooney",
+   "category": "Female 30-39",
+   "time": "00:49:55"
+  },
+  {
+   "name": "Sydney Dawson",
+   "category": "Female 50-59",
+   "time": "00:53:41"
+  },
+  {
+   "name": "Connie Karras",
+   "category": "Female 50-59",
+   "time": "01:06:54"
+  },
+  {
+   "name": "David Ralston",
+   "category": "Male 70+",
+   "time": "01:06:55"
+  },
+  {
+   "name": "Morningsun Kelly",
+   "category": "Female 60-69",
+   "time": "01:08:46"
+  }
+ ]
+}

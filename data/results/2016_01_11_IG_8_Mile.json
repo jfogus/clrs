@@ -1,0 +1,135 @@
+{
+ "race": "2016 IG 8 Mile",
+ "results": [
+  {
+   "name": "John Borman",
+   "category": "Male 30-39",
+   "time": "01:06:06"
+  },
+  {
+   "name": "Jared Goodall",
+   "category": "Male 30-39",
+   "time": "01:12:32"
+  },
+  {
+   "name": "Clark Gloyeske",
+   "category": "Male 50-59",
+   "time": "01:13:07"
+  },
+  {
+   "name": "Craig Miller",
+   "category": "Male 50-59",
+   "time": "01:15:52"
+  },
+  {
+   "name": "Jim Kyle",
+   "category": "Male 50-59",
+   "time": "01:16:50"
+  },
+  {
+   "name": "Erik Jensen",
+   "category": "Male 20-29",
+   "time": "01:18:32"
+  },
+  {
+   "name": "Matthew Wade",
+   "category": "Male 30-39",
+   "time": "01:19:33"
+  },
+  {
+   "name": "Karen Spoor",
+   "category": "Female 40-49",
+   "time": "01:25:23"
+  },
+  {
+   "name": "David Dodd",
+   "category": "Male 50-59",
+   "time": "01:25:56"
+  },
+  {
+   "name": "Amy Maciejewski",
+   "category": "Female 20-29",
+   "time": "01:29:54"
+  },
+  {
+   "name": "Deborah Brawn",
+   "category": "Female 50-59",
+   "time": "01:32:55"
+  },
+  {
+   "name": "Jennifer Boster",
+   "category": "Female 30-39",
+   "time": "01:38:18"
+  },
+  {
+   "name": "Anne-Marie Doctor",
+   "category": "Female 40-49",
+   "time": "01:41:53"
+  },
+  {
+   "name": "Tom Hutmacher",
+   "category": "Male 60-69",
+   "time": "01:49:00"
+  },
+  {
+   "name": "Jeff Wright",
+   "category": "Male 40-49",
+   "time": "01:51:37"
+  },
+  {
+   "name": "Katie Eaton",
+   "category": "Female 30-39",
+   "time": "01:54:54"
+  },
+  {
+   "name": "Sue Brown",
+   "category": "Female 50-59",
+   "time": "01:54:54"
+  },
+  {
+   "name": "Dan Sturgell",
+   "category": "Male 60-69",
+   "time": "01:54:54"
+  },
+  {
+   "name": "Carolyn Newman",
+   "category": "Female 30-39",
+   "time": "01:54:54"
+  },
+  {
+   "name": "Amy Burke",
+   "category": "Female 40-49",
+   "time": "02:02:50"
+  },
+  {
+   "name": "Marie Middleton Nied",
+   "category": "Female 40-49",
+   "time": "02:04:05"
+  },
+  {
+   "name": "Lisa Apato",
+   "category": "Female 40-49",
+   "time": "02:04:05"
+  },
+  {
+   "name": "Jane Fuller",
+   "category": "Female 70+",
+   "time": "02:11:20"
+  },
+  {
+   "name": "Mary Valasco",
+   "category": "Female 40-49",
+   "time": "02:11:58"
+  },
+  {
+   "name": "Gina Calderon",
+   "category": "Female 30-39",
+   "time": "02:14:58"
+  },
+  {
+   "name": "Susan Moreno",
+   "category": "Female 40-49",
+   "time": "02:14:58"
+  }
+ ]
+}

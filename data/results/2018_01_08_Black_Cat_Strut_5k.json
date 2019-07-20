@@ -1,0 +1,65 @@
+{
+ "race": "2018 Black Cat Strut 5k",
+ "results": [
+  {
+   "name": "Leo Frey",
+   "category": "Male 50-59",
+   "time": "00:23:02"
+  },
+  {
+   "name": "Daniel Brugos",
+   "category": "Male 50-59",
+   "time": "00:25:37"
+  },
+  {
+   "name": "Jody Brown",
+   "category": "Female 40-49",
+   "time": "00:26:08"
+  },
+  {
+   "name": "Kalia Stevens",
+   "category": "Female 20-29",
+   "time": "00:27:28"
+  },
+  {
+   "name": "Bella Paape",
+   "category": "Female 15 Under",
+   "time": "00:29:41"
+  },
+  {
+   "name": "Rubez Sanchez",
+   "category": "Male 60-69",
+   "time": "00:30:17"
+  },
+  {
+   "name": "Johnny Stimlay",
+   "category": "Male 40-49",
+   "time": "00:30:27"
+  },
+  {
+   "name": "Todd Bailey",
+   "category": "Male 50-59",
+   "time": "00:32:53"
+  },
+  {
+   "name": "Amy Dolbeare",
+   "category": "Female 40-49",
+   "time": "00:33:24"
+  },
+  {
+   "name": "John Stevens",
+   "category": "Male 60-69",
+   "time": "00:34:15"
+  },
+  {
+   "name": "Morningsun Kelly",
+   "category": "Female 60-69",
+   "time": "01:03:34"
+  },
+  {
+   "name": "Jennifer Bilby",
+   "category": "Female 40-49",
+   "time": "01:03:35"
+  }
+ ]
+}

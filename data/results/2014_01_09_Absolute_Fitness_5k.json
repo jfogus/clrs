@@ -1,0 +1,110 @@
+{
+ "race": "2014 Absolute Fitness 5k",
+ "results": [
+  {
+   "name": "Yvette Lambersie",
+   "category": "Female 30-39",
+   "time": "00:20:06"
+  },
+  {
+   "name": "Craig Miller",
+   "category": "Male 50-59",
+   "time": "00:21:33"
+  },
+  {
+   "name": "Johnny Stimley",
+   "category": "Male 40-49",
+   "time": "00:22:00"
+  },
+  {
+   "name": "Elizabeth Scott",
+   "category": "Female 30-39",
+   "time": "00:22:22"
+  },
+  {
+   "name": "Peggy Tuzinski",
+   "category": "Female 40-49",
+   "time": "00:25:09"
+  },
+  {
+   "name": "Tom Hutmacher",
+   "category": "Male 60-69",
+   "time": "00:25:58"
+  },
+  {
+   "name": "Kathryn Crook",
+   "category": "Female 20-29",
+   "time": "00:26:12"
+  },
+  {
+   "name": "Quinn Warren",
+   "category": "Male 15 Under",
+   "time": "00:26:25"
+  },
+  {
+   "name": "Heather Bickers",
+   "category": "Female 40-49",
+   "time": "00:27:37"
+  },
+  {
+   "name": "Lydia Sandoval",
+   "category": "Female 50-59",
+   "time": "00:28:00"
+  },
+  {
+   "name": "Travis Nay",
+   "category": "Male 40-49",
+   "time": "00:28:02"
+  },
+  {
+   "name": "Troy Feller",
+   "category": "Male 15 Under",
+   "time": "00:28:43"
+  },
+  {
+   "name": "Natalie Griffin",
+   "category": "Female 20-29",
+   "time": "00:28:50"
+  },
+  {
+   "name": "Susan Collins",
+   "category": "Female 60-69",
+   "time": "00:31:58"
+  },
+  {
+   "name": "Julia Dziubla",
+   "category": "Female 40-49",
+   "time": "00:33:01"
+  },
+  {
+   "name": "Susan Williams",
+   "category": "Female 50-59",
+   "time": "00:35:01"
+  },
+  {
+   "name": "Jack Humphrey",
+   "category": "Male 60-69",
+   "time": "00:38:27"
+  },
+  {
+   "name": "Kaley Brown",
+   "category": "Female 16-19",
+   "time": "00:40:00"
+  },
+  {
+   "name": "Whitewolf Kelly",
+   "category": "Male 60-69",
+   "time": "00:40:12"
+  },
+  {
+   "name": "Nikki Dehaven",
+   "category": "Female 60-69",
+   "time": "00:41:45"
+  },
+  {
+   "name": "Morningsun Kelly",
+   "category": "Female 60-69",
+   "time": "00:43:40"
+  }
+ ]
+}

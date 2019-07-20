@@ -1,0 +1,200 @@
+{
+ "race": "2018 Yeti Half",
+ "results": [
+  {
+   "name": "John Borman",
+   "category": "Male 40-49",
+   "time": "02:03:17"
+  },
+  {
+   "name": "Nate Shaffer",
+   "category": "Male 40-49",
+   "time": "02:14:49"
+  },
+  {
+   "name": "Tom Shook",
+   "category": "Male 40-49",
+   "time": "02:22:46"
+  },
+  {
+   "name": "Jim Hamstra",
+   "category": "Male 30-39",
+   "time": "02:26:56"
+  },
+  {
+   "name": "Hans Blunk",
+   "category": "Male 30-39",
+   "time": "02:31:21"
+  },
+  {
+   "name": "Joe Reeves",
+   "category": "Male 40-49",
+   "time": "02:33:03"
+  },
+  {
+   "name": "Dave Gaughan",
+   "category": "Male 50-59",
+   "time": "02:33:44"
+  },
+  {
+   "name": "Norm Williams",
+   "category": "Male 50-59",
+   "time": "02:33:47"
+  },
+  {
+   "name": "Ryan Quinn",
+   "category": "Male 30-39",
+   "time": "02:35:21"
+  },
+  {
+   "name": "Dara Grady",
+   "category": "Female 40-49",
+   "time": "02:37:18"
+  },
+  {
+   "name": "Gregg Kobe",
+   "category": "Male 40-49",
+   "time": "02:41:54"
+  },
+  {
+   "name": "Dan Cunningham",
+   "category": "Male 40-49",
+   "time": "02:44:52"
+  },
+  {
+   "name": "Rachel Mckay",
+   "category": "Female 20-29",
+   "time": "02:47:54"
+  },
+  {
+   "name": "Morganne Blunk",
+   "category": "Female 20-29",
+   "time": "02:51:01"
+  },
+  {
+   "name": "William Donaruma",
+   "category": "Male 50-59",
+   "time": "02:51:33"
+  },
+  {
+   "name": "Jaclyn Dominici",
+   "category": "Female 20-29",
+   "time": "02:54:19"
+  },
+  {
+   "name": "Jung Kim",
+   "category": "Female 40-49",
+   "time": "02:54:41"
+  },
+  {
+   "name": "Jorge Jimenez",
+   "category": "Male 30-39",
+   "time": "02:55:59"
+  },
+  {
+   "name": "Natalie Converse",
+   "category": "Female 30-39",
+   "time": "02:56:51"
+  },
+  {
+   "name": "Joe Shorb",
+   "category": "Male 30-39",
+   "time": "03:02:37"
+  },
+  {
+   "name": "Brittany Haines",
+   "category": "Female 20-29",
+   "time": "03:05:30"
+  },
+  {
+   "name": "Matthew Haines",
+   "category": "Male 20-29",
+   "time": "03:05:31"
+  },
+  {
+   "name": "Tim Post",
+   "category": "Male 30-39",
+   "time": "03:06:00"
+  },
+  {
+   "name": "Kim Davis",
+   "category": "Female 40-49",
+   "time": "03:09:24"
+  },
+  {
+   "name": "Abel Orue",
+   "category": "Male 50-59",
+   "time": "03:12:14"
+  },
+  {
+   "name": "Mervyn Sharaf",
+   "category": "Male 40-49",
+   "time": "03:13:22"
+  },
+  {
+   "name": "Kasey Kozlowski",
+   "category": "Male 20-29",
+   "time": "03:18:52"
+  },
+  {
+   "name": "Megan Pollock",
+   "category": "Female 20-29",
+   "time": "03:24:01"
+  },
+  {
+   "name": "Scott Lurillo",
+   "category": "Male 40-49",
+   "time": "03:24:01"
+  },
+  {
+   "name": "Jeff Wright",
+   "category": "Male 50-59",
+   "time": "03:24:26"
+  },
+  {
+   "name": "Fredric Owens",
+   "category": "Male 40-49",
+   "time": "03:25:20"
+  },
+  {
+   "name": "Matt Workman",
+   "category": "Male 50-59",
+   "time": "03:25:20"
+  },
+  {
+   "name": "Jodi Pressel",
+   "category": "Female 50-59",
+   "time": "03:28:18"
+  },
+  {
+   "name": "Kenny Dillion",
+   "category": "Male 60-69",
+   "time": "03:28:18"
+  },
+  {
+   "name": "Robert Boby",
+   "category": "Male 50-59",
+   "time": "03:29:21"
+  },
+  {
+   "name": "Alicia Kobe",
+   "category": "Female 30-39",
+   "time": "03:42:56"
+  },
+  {
+   "name": "Samantha Payne",
+   "category": "Female 20-29",
+   "time": "03:44:18"
+  },
+  {
+   "name": "Jason Kniola",
+   "category": "Male 40-49",
+   "time": "03:51:21"
+  },
+  {
+   "name": "David Ralston",
+   "category": "Male 70+",
+   "time": "04:55:12"
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "race": "2015 Running with the Big Dogs 5k",
+ "results": [
+  {
+   "name": "Racheal Marchand",
+   "category": "Female 20-29",
+   "time": "00:17:33"
+  },
+  {
+   "name": "Shawn Macroberts",
+   "category": "Male 30-39",
+   "time": "00:17:34"
+  },
+  {
+   "name": "Chris Byers",
+   "category": "Female 40-49",
+   "time": "00:20:21"
+  },
+  {
+   "name": "Ray Byers",
+   "category": "Male 50-59",
+   "time": "00:20:23"
+  },
+  {
+   "name": "Craig Miller",
+   "category": "Male 50-59",
+   "time": "00:20:51"
+  },
+  {
+   "name": "Andrew Stem",
+   "category": "Male 30-39",
+   "time": "00:21:11"
+  },
+  {
+   "name": "Jody Brown",
+   "category": "Female 40-49",
+   "time": "00:21:43"
+  },
+  {
+   "name": "Bittany Newton",
+   "category": "Female 20-29",
+   "time": "00:23:37"
+  },
+  {
+   "name": "Dianne Feldewerth",
+   "category": "Female 40-49",
+   "time": "00:26:07"
+  },
+  {
+   "name": "Trish Taylor",
+   "category": "Female 30-39",
+   "time": "00:26:08"
+  },
+  {
+   "name": "Travis Nay",
+   "category": "Male 40-49",
+   "time": "00:26:15"
+  },
+  {
+   "name": "Ronda Kruger",
+   "category": "Female 50-59",
+   "time": "00:26:48"
+  },
+  {
+   "name": "Vickie Williams",
+   "category": "Female 60-69",
+   "time": "00:26:48"
+  },
+  {
+   "name": "Amber Robinson",
+   "category": "Female 20-29",
+   "time": "00:32:24"
+  },
+  {
+   "name": "Diane Kellenburger",
+   "category": "Female 60-69",
+   "time": "00:33:05"
+  },
+  {
+   "name": "Brooke Sessions",
+   "category": "Female 30-39",
+   "time": "00:33:54"
+  },
+  {
+   "name": "Julia Dziubla",
+   "category": "Female 40-49",
+   "time": "00:34:54"
+  },
+  {
+   "name": "Cindy Hall",
+   "category": "Female 50-59",
+   "time": "00:36:22"
+  },
+  {
+   "name": "Kevin Locascio",
+   "category": "Male 30-39",
+   "time": "00:39:26"
+  },
+  {
+   "name": "Rick Grosser",
+   "category": "Male 50-59",
+   "time": "00:41:07"
+  },
+  {
+   "name": "Morningsun Kelly",
+   "category": "Female 60-69",
+   "time": "00:42:30"
+  }
+ ]
+}

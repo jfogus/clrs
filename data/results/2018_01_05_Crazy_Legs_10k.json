@@ -1,0 +1,395 @@
+{
+ "race": "2018 Crazy Legs 10k",
+ "results": [
+  {
+   "name": "Nathan Grimm",
+   "category": "Male 20-29",
+   "time": "00:46:52"
+  },
+  {
+   "name": "John Kronenberger",
+   "category": "Male 30-39",
+   "time": "00:48:22"
+  },
+  {
+   "name": "Bret Naber",
+   "category": "Male 40-49",
+   "time": "00:54:45"
+  },
+  {
+   "name": "Ethan Barbiere",
+   "category": "Male 30-39",
+   "time": "00:56:11"
+  },
+  {
+   "name": "Cory Hibbard",
+   "category": "Female 20-29",
+   "time": "00:57:33"
+  },
+  {
+   "name": "Tina Jone",
+   "category": "Female 40-49",
+   "time": "00:58:06"
+  },
+  {
+   "name": "Todd Schaefer",
+   "category": "Male 40-49",
+   "time": "00:58:45"
+  },
+  {
+   "name": "Federico Martin",
+   "category": "Male 30-39",
+   "time": "00:59:41"
+  },
+  {
+   "name": "Chris Bull",
+   "category": "Male 40-49",
+   "time": "00:59:42"
+  },
+  {
+   "name": "Anthony Pezzotti",
+   "category": "Male 30-39",
+   "time": "00:59:57"
+  },
+  {
+   "name": "Robert Berndt",
+   "category": "Male 50-59",
+   "time": "01:00:20"
+  },
+  {
+   "name": "Owen Leonard",
+   "category": "Male 40-49",
+   "time": "01:00:43"
+  },
+  {
+   "name": "Ryan Smith",
+   "category": "Male 40-49",
+   "time": "01:02:05"
+  },
+  {
+   "name": "Kyle Palmiscno",
+   "category": "Male 30-39",
+   "time": "01:02:08"
+  },
+  {
+   "name": "Darlene Rouleau",
+   "category": "Female 30-39",
+   "time": "01:02:30"
+  },
+  {
+   "name": "Lindsay Tholl",
+   "category": "Female 30-39",
+   "time": "01:03:42"
+  },
+  {
+   "name": "Garrett Miller",
+   "category": "Male 30-39",
+   "time": "01:03:47"
+  },
+  {
+   "name": "Teal Collins",
+   "category": "Female 20-29",
+   "time": "01:03:55"
+  },
+  {
+   "name": "Liz Rose",
+   "category": "Female 30-39",
+   "time": "01:04:02"
+  },
+  {
+   "name": "Derick Page",
+   "category": "Male 40-49",
+   "time": "01:04:50"
+  },
+  {
+   "name": "Nathan Fairchild",
+   "category": "Male 30-39",
+   "time": "01:06:51"
+  },
+  {
+   "name": "Charlotta Vollmer",
+   "category": "Female 40-49",
+   "time": "01:08:04"
+  },
+  {
+   "name": "Kelsey Henderson",
+   "category": "Female 20-29",
+   "time": "01:08:50"
+  },
+  {
+   "name": "Laura Aquirres",
+   "category": "Female 30-39",
+   "time": "01:09:20"
+  },
+  {
+   "name": "Stacey Siegel",
+   "category": "Female 40-49",
+   "time": "01:09:36"
+  },
+  {
+   "name": "Michelle Foster",
+   "category": "Female 30-39",
+   "time": "01:09:43"
+  },
+  {
+   "name": "Chris Carter",
+   "category": "Male 40-49",
+   "time": "01:09:55"
+  },
+  {
+   "name": "Raymie Lepetit",
+   "category": "Female 20-29",
+   "time": "01:10:44"
+  },
+  {
+   "name": "Tom Corby",
+   "category": "Male 50-59",
+   "time": "01:10:53"
+  },
+  {
+   "name": "Sarah Rose",
+   "category": "Female 30-39",
+   "time": "01:11:47"
+  },
+  {
+   "name": "Chris Matier",
+   "category": "Male 40-49",
+   "time": "01:11:57"
+  },
+  {
+   "name": "Greg Lewis",
+   "category": "Male 40-49",
+   "time": "01:12:03"
+  },
+  {
+   "name": "Missy Nelson",
+   "category": "Female 30-39",
+   "time": "01:12:24"
+  },
+  {
+   "name": "Audrey Pezzotti",
+   "category": "Female 30-39",
+   "time": "01:12:52"
+  },
+  {
+   "name": "Jonathan Zeif",
+   "category": "Male 60-69",
+   "time": "01:13:00"
+  },
+  {
+   "name": "Andrea Shulski",
+   "category": "Female 30-39",
+   "time": "01:13:07"
+  },
+  {
+   "name": "Nicky Galbrath",
+   "category": "Female 40-49",
+   "time": "01:13:08"
+  },
+  {
+   "name": "Meghan Suter",
+   "category": "Female 30-39",
+   "time": "01:13:14"
+  },
+  {
+   "name": "Randal Smith",
+   "category": "Male 50-59",
+   "time": "01:13:45"
+  },
+  {
+   "name": "Kelly Smith",
+   "category": "Female 40-49",
+   "time": "01:14:01"
+  },
+  {
+   "name": "Katie Ricketts",
+   "category": "Female 30-39",
+   "time": "01:14:17"
+  },
+  {
+   "name": "Shannon Smith",
+   "category": "Female 40-49",
+   "time": "01:14:23"
+  },
+  {
+   "name": "Tirrel Miller",
+   "category": "Female 30-39",
+   "time": "01:14:25"
+  },
+  {
+   "name": "Bernadette Kuhn",
+   "category": "Female 30-39",
+   "time": "01:15:35"
+  },
+  {
+   "name": "Sarah Wasson",
+   "category": "Female 50-59",
+   "time": "01:16:42"
+  },
+  {
+   "name": "Kristi Zambrano",
+   "category": "Female 40-49",
+   "time": "01:16:43"
+  },
+  {
+   "name": "Brian Zambrano",
+   "category": "Male 40-49",
+   "time": "01:16:43"
+  },
+  {
+   "name": "Damien Knight",
+   "category": "Male 40-49",
+   "time": "01:17:03"
+  },
+  {
+   "name": "Tim Rose",
+   "category": "Male 30-39",
+   "time": "01:17:32"
+  },
+  {
+   "name": "Michele Ard",
+   "category": "Female 50-59",
+   "time": "01:18:12"
+  },
+  {
+   "name": "Kelly Thompson",
+   "category": "Female 50-59",
+   "time": "01:20:21"
+  },
+  {
+   "name": "Miranda Davidge",
+   "category": "Female 30-39",
+   "time": "01:20:57"
+  },
+  {
+   "name": "Mitchell Ragsdale",
+   "category": "Male 50-59",
+   "time": "01:21:46"
+  },
+  {
+   "name": "Tracey Walkins",
+   "category": "Male 50-59",
+   "time": "01:21:52"
+  },
+  {
+   "name": "Michelle Morris",
+   "category": "Female 20-29",
+   "time": "01:22:30"
+  },
+  {
+   "name": "Tiffany Peeken",
+   "category": "Female 20-29",
+   "time": "01:22:33"
+  },
+  {
+   "name": "Liesel Hans",
+   "category": "Female 30-39",
+   "time": "01:23:24"
+  },
+  {
+   "name": "Jason O\u2019Donnell",
+   "category": "Male 40-49",
+   "time": "01:23:50"
+  },
+  {
+   "name": "Lisa Mcnair",
+   "category": "Female 50-59",
+   "time": "01:24:06"
+  },
+  {
+   "name": "Jay Pearson",
+   "category": "Female 40-49",
+   "time": "01:24:28"
+  },
+  {
+   "name": "Bianca Ingram",
+   "category": "Female 40-49",
+   "time": "01:24:41"
+  },
+  {
+   "name": "Dawn Marie Pollard",
+   "category": "Female 40-49",
+   "time": "01:24:58"
+  },
+  {
+   "name": "Cynthia Lavin",
+   "category": "Female 50-59",
+   "time": "01:25:45"
+  },
+  {
+   "name": "Joann Herkenhoff",
+   "category": "Female 40-49",
+   "time": "01:26:13"
+  },
+  {
+   "name": "Chelsey Fairchild",
+   "category": "Female 30-39",
+   "time": "01:28:46"
+  },
+  {
+   "name": "John Henry",
+   "category": "Male 50-59",
+   "time": "01:29:11"
+  },
+  {
+   "name": "Jennifer Weinert",
+   "category": "Female 30-39",
+   "time": "01:29:43"
+  },
+  {
+   "name": "Heather Golden",
+   "category": "Female 40-49",
+   "time": "01:30:06"
+  },
+  {
+   "name": "Lisa Schaefer",
+   "category": "Female 30-39",
+   "time": "01:33:08"
+  },
+  {
+   "name": "Ashley Beam",
+   "category": "Female 30-39",
+   "time": "01:33:09"
+  },
+  {
+   "name": "Tammy Matier",
+   "category": "Female 40-49",
+   "time": "01:33:53"
+  },
+  {
+   "name": "Jamie Boos",
+   "category": "Female 40-49",
+   "time": "01:33:56"
+  },
+  {
+   "name": "Donna Way",
+   "category": "Female 40-49",
+   "time": "01:34:03"
+  },
+  {
+   "name": "Deanna Kluver",
+   "category": "Female 50-59",
+   "time": "01:34:30"
+  },
+  {
+   "name": "Alison Lagerstrom",
+   "category": "Female 30-39",
+   "time": "01:34:32"
+  },
+  {
+   "name": "Selena Schaefer",
+   "category": "Female 40-49",
+   "time": "01:40:20"
+  },
+  {
+   "name": "Lynette Johnson",
+   "category": "Female 50-59",
+   "time": "01:41:26"
+  },
+  {
+   "name": "Mikey Ard",
+   "category": "Male 60-69",
+   "time": "01:41:27"
+  }
+ ]
+}

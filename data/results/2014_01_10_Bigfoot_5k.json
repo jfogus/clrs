@@ -1,0 +1,90 @@
+{
+ "race": "2014 Bigfoot 5k",
+ "results": [
+  {
+   "name": "Devin Clark",
+   "category": "Male 16-19",
+   "time": "00:22:57"
+  },
+  {
+   "name": "John Borman",
+   "category": "Male 20-29",
+   "time": "00:23:19"
+  },
+  {
+   "name": "Nathan O'Conner",
+   "category": "Male 15 Under",
+   "time": "00:28:31"
+  },
+  {
+   "name": "Marlin Howe",
+   "category": "Male 50-59",
+   "time": "00:28:40"
+  },
+  {
+   "name": "Yvette Lambersie",
+   "category": "Female 30-39",
+   "time": "00:28:45"
+  },
+  {
+   "name": "Kirk Martin",
+   "category": "Male 40-49",
+   "time": "00:30:49"
+  },
+  {
+   "name": "Kristen Stapay",
+   "category": "Female 20-29",
+   "time": "00:34:45"
+  },
+  {
+   "name": "Mike Steinhubel",
+   "category": "Male 50-59",
+   "time": "00:34:55"
+  },
+  {
+   "name": "Terri Steinhubel",
+   "category": "Female 40-49",
+   "time": "00:42:44"
+  },
+  {
+   "name": "James Kaminski",
+   "category": "Male 70+",
+   "time": "00:43:23"
+  },
+  {
+   "name": "Travis Nay",
+   "category": "Male 40-49",
+   "time": "00:44:36"
+  },
+  {
+   "name": "Kathy Hutchinson",
+   "category": "Female 60-69",
+   "time": "00:44:48"
+  },
+  {
+   "name": "Gwen O'Conner",
+   "category": "Female 30-39",
+   "time": "00:44:56"
+  },
+  {
+   "name": "Julia Dziubla",
+   "category": "Female 40-49",
+   "time": "00:45:05"
+  },
+  {
+   "name": "Michael Walker",
+   "category": "Male 50-59",
+   "time": "00:46:01"
+  },
+  {
+   "name": "Melissa Barkow",
+   "category": "Female 20-29",
+   "time": "00:52:33"
+  },
+  {
+   "name": "Morningsun Kelly",
+   "category": "Female 60-69",
+   "time": "01:15:21"
+  }
+ ]
+}

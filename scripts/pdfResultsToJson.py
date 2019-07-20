@@ -1,0 +1,1 @@
+# TODO: Take pdf from rawResults folder, make into JSON, update races/past_races with moveOldRaces.py

@@ -1,0 +1,335 @@
+{
+ "race": "2017 Running for Alexandria 5k",
+ "results": [
+  {
+   "name": "Daniel Dehaven",
+   "category": "Male 30-39",
+   "time": "00:22:08"
+  },
+  {
+   "name": "Craig Miller",
+   "category": "Male 50-59",
+   "time": "00:22:32"
+  },
+  {
+   "name": "Phil Newberry",
+   "category": "Male 50-59",
+   "time": "00:23:28"
+  },
+  {
+   "name": "Todd Bailey",
+   "category": "Male 40-49",
+   "time": "00:24:32"
+  },
+  {
+   "name": "Trent Kulig",
+   "category": "Male 15 Under",
+   "time": "00:24:51"
+  },
+  {
+   "name": "Steve Kearney",
+   "category": "Male 60-69",
+   "time": "00:24:54"
+  },
+  {
+   "name": "Dan Govet",
+   "category": "Male 60-69",
+   "time": "00:25:08"
+  },
+  {
+   "name": "Craig Martin",
+   "category": "Male 40-49",
+   "time": "00:25:34"
+  },
+  {
+   "name": "Aaron Hodge",
+   "category": "Male 30-39",
+   "time": "00:26:30"
+  },
+  {
+   "name": "Ashlie Miller",
+   "category": "Female 30-39",
+   "time": "00:26:47"
+  },
+  {
+   "name": "Jordon Budreau",
+   "category": "Male 30-39",
+   "time": "00:26:53"
+  },
+  {
+   "name": "Whitewolf Kelly",
+   "category": "Male 60-69",
+   "time": "00:27:01"
+  },
+  {
+   "name": "Todd Chamberlain",
+   "category": "Male 40-49",
+   "time": "00:27:18"
+  },
+  {
+   "name": "Eric Diamond",
+   "category": "Male 50-59",
+   "time": "00:27:24"
+  },
+  {
+   "name": "Lydia Sandoval",
+   "category": "Female 50-59",
+   "time": "00:27:37"
+  },
+  {
+   "name": "Tom Hutmacher",
+   "category": "Male 60-69",
+   "time": "00:27:40"
+  },
+  {
+   "name": "Travis Nay",
+   "category": "Male 40-49",
+   "time": "00:27:57"
+  },
+  {
+   "name": "Nathan Wiseman",
+   "category": "Male 40-49",
+   "time": "00:28:02"
+  },
+  {
+   "name": "Lisa Gold",
+   "category": "Female 50-59",
+   "time": "00:28:08"
+  },
+  {
+   "name": "Trent Hurysz",
+   "category": "Male 15 Under",
+   "time": "00:28:12"
+  },
+  {
+   "name": "Norma Eikman",
+   "category": "Male 70+",
+   "time": "00:28:21"
+  },
+  {
+   "name": "Lorie Arnold",
+   "category": "Female 50-59",
+   "time": "00:28:22"
+  },
+  {
+   "name": "Dwaine Stevens",
+   "category": "Male 60-69",
+   "time": "00:28:48"
+  },
+  {
+   "name": "Linda Schwinkendorf",
+   "category": "Female 50-59",
+   "time": "00:29:11"
+  },
+  {
+   "name": "Randy Fielder",
+   "category": "Male 60-69",
+   "time": "00:29:37"
+  },
+  {
+   "name": "Rachel Russo",
+   "category": "Female 20-29",
+   "time": "00:29:38"
+  },
+  {
+   "name": "Felicia Schaap",
+   "category": "Female 20-29",
+   "time": "00:29:42"
+  },
+  {
+   "name": "Amanda Kolodzinski",
+   "category": "Female 30-39",
+   "time": "00:30:14"
+  },
+  {
+   "name": "Amanda Budreau",
+   "category": "Female 30-39",
+   "time": "00:30:41"
+  },
+  {
+   "name": "Kathy Hilbrich",
+   "category": "Female 60-69",
+   "time": "00:31:02"
+  },
+  {
+   "name": "Maureen Koonce",
+   "category": "Female 20-29",
+   "time": "00:31:03"
+  },
+  {
+   "name": "Aaron Koonce",
+   "category": "Male 30-39",
+   "time": "00:31:03"
+  },
+  {
+   "name": "Leonardo Torres",
+   "category": "Male 40-49",
+   "time": "00:31:09"
+  },
+  {
+   "name": "Laura Arent",
+   "category": "Female 40-49",
+   "time": "00:31:10"
+  },
+  {
+   "name": "Dylan Woerpel",
+   "category": "Male 15 Under",
+   "time": "00:31:20"
+  },
+  {
+   "name": "Matthew Kulig",
+   "category": "Male 15 Under",
+   "time": "00:31:21"
+  },
+  {
+   "name": "Sherry Mcgill",
+   "category": "Female 50-59",
+   "time": "00:31:26"
+  },
+  {
+   "name": "Greg Kulig",
+   "category": "Male 40-49",
+   "time": "00:31:27"
+  },
+  {
+   "name": "Shelly Mason",
+   "category": "Female 40-49",
+   "time": "00:32:17"
+  },
+  {
+   "name": "Jessica Kvechenberg",
+   "category": "Female 40-49",
+   "time": "00:32:20"
+  },
+  {
+   "name": "Bill Ferry",
+   "category": "Male 30-39",
+   "time": "00:32:20"
+  },
+  {
+   "name": "Andrea Kulig",
+   "category": "Female 30-39",
+   "time": "00:32:28"
+  },
+  {
+   "name": "Ava Kulig",
+   "category": "Female 15 Under",
+   "time": "00:32:30"
+  },
+  {
+   "name": "Larry Frazier",
+   "category": "Male 30-39",
+   "time": "00:32:45"
+  },
+  {
+   "name": "Anna Kulig",
+   "category": "Female 15 Under",
+   "time": "00:32:49"
+  },
+  {
+   "name": "Michelle Fejes",
+   "category": "Female 30-39",
+   "time": "00:33:03"
+  },
+  {
+   "name": "Kimberly Arent",
+   "category": "Female 40-49",
+   "time": "00:33:46"
+  },
+  {
+   "name": "Joe Arent",
+   "category": "Male 40-49",
+   "time": "00:33:47"
+  },
+  {
+   "name": "Meredith Palko",
+   "category": "Female 30-39",
+   "time": "00:34:14"
+  },
+  {
+   "name": "Lindsay Palko",
+   "category": "Female 30-39",
+   "time": "00:34:14"
+  },
+  {
+   "name": "Chris Alexander",
+   "category": "Male 40-49",
+   "time": "00:34:43"
+  },
+  {
+   "name": "Helen Chupp",
+   "category": "Female 50-59",
+   "time": "00:36:23"
+  },
+  {
+   "name": "Maria Mendoza",
+   "category": "Female 40-49",
+   "time": "00:36:51"
+  },
+  {
+   "name": "Maureen Marthaler",
+   "category": "Female 50-59",
+   "time": "00:36:54"
+  },
+  {
+   "name": "Julia Nay",
+   "category": "Female 40-49",
+   "time": "00:38:17"
+  },
+  {
+   "name": "Maria G Cano",
+   "category": "Female 40-49",
+   "time": "00:39:22"
+  },
+  {
+   "name": "Jack Kachak",
+   "category": "Male 60-69",
+   "time": "00:40:19"
+  },
+  {
+   "name": "Aundrea Hofman-Wiseman",
+   "category": "Female 30-39",
+   "time": "00:41:51"
+  },
+  {
+   "name": "Ambrosia Maddox",
+   "category": "Female 20-29",
+   "time": "00:42:26"
+  },
+  {
+   "name": "Mark Kionchel",
+   "category": "Male 40-49",
+   "time": "00:42:41"
+  },
+  {
+   "name": "Edie Leqiec",
+   "category": "Female 40-49",
+   "time": "00:42:46"
+  },
+  {
+   "name": "Lance Basiorka",
+   "category": "Male 30-39",
+   "time": "00:43:59"
+  },
+  {
+   "name": "Laura Basiorka",
+   "category": "Female 30-39",
+   "time": "00:44:05"
+  },
+  {
+   "name": "Morningsun Kelly",
+   "category": "Female 60-69",
+   "time": "00:48:00"
+  },
+  {
+   "name": "Lacey Woerpel",
+   "category": "Female 30-39",
+   "time": "00:53:50"
+  },
+  {
+   "name": "Noah Woerpel",
+   "category": "Male 15 Under",
+   "time": "00:53:57"
+  }
+ ]
+}

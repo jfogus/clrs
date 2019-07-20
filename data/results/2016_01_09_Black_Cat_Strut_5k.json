@@ -1,0 +1,60 @@
+{
+ "race": "2016 Black Cat Strut 5k",
+ "results": [
+  {
+   "name": "Elizabeth Canright",
+   "category": "Female 16-19",
+   "time": "00:25:32"
+  },
+  {
+   "name": "Sandy Stefanski",
+   "category": "Female 50-59",
+   "time": "00:28:15"
+  },
+  {
+   "name": "Travis Nay",
+   "category": "Male 40-49",
+   "time": "00:33:14"
+  },
+  {
+   "name": "Kathy Hilbrich",
+   "category": "Female 60-69",
+   "time": "00:35:39"
+  },
+  {
+   "name": "Jo Munro",
+   "category": "Female 40-49",
+   "time": "00:38:24"
+  },
+  {
+   "name": "Kellie Mcneil",
+   "category": "Female 30-39",
+   "time": "00:39:25"
+  },
+  {
+   "name": "Ron Melody",
+   "category": "Male 60-69",
+   "time": "00:48:56"
+  },
+  {
+   "name": "Natalie Cebulski",
+   "category": "Female 40-49",
+   "time": "00:48:58"
+  },
+  {
+   "name": "Julia Nay",
+   "category": "Female 40-49",
+   "time": "00:52:02"
+  },
+  {
+   "name": "Keith Tomerlin",
+   "category": "Male 30-39",
+   "time": "00:55:48"
+  },
+  {
+   "name": "Morningsun Kelly",
+   "category": "Female 60-69",
+   "time": "00:57:08"
+  }
+ ]
+}

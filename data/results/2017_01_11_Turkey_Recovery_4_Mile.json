@@ -1,0 +1,135 @@
+{
+ "race": "2017 Turkey Recovery 4 Mile",
+ "results": [
+  {
+   "name": "Darrion Thornburgh",
+   "category": "Male 15 Under",
+   "time": "00:25:29"
+  },
+  {
+   "name": "Lilly Maldia",
+   "category": "Female 15 Under",
+   "time": "00:34:17"
+  },
+  {
+   "name": "Michelle Schitt",
+   "category": "Female 40-49",
+   "time": "00:34:52"
+  },
+  {
+   "name": "Joe Trathen",
+   "category": "Male 40-49",
+   "time": "00:35:03"
+  },
+  {
+   "name": "Dawn Vamos",
+   "category": "Female 40-49",
+   "time": "00:35:29"
+  },
+  {
+   "name": "Eric Diamond",
+   "category": "Male 50-59",
+   "time": "00:35:43"
+  },
+  {
+   "name": "Whitewolf Kelly",
+   "category": "Male 60-69",
+   "time": "00:37:17"
+  },
+  {
+   "name": "Tom Hutmacher",
+   "category": "Male 60-69",
+   "time": "00:37:46"
+  },
+  {
+   "name": "Lydia Sandoval",
+   "category": "Female 60-69",
+   "time": "00:37:53"
+  },
+  {
+   "name": "Stephanie Crook",
+   "category": "Female 30-39",
+   "time": "00:38:45"
+  },
+  {
+   "name": "Rhonda Kruger",
+   "category": "Female 50-59",
+   "time": "00:39:04"
+  },
+  {
+   "name": "Dianne Feldewerth",
+   "category": "Female 40-49",
+   "time": "00:39:05"
+  },
+  {
+   "name": "Randy Fielder",
+   "category": "Male 60-69",
+   "time": "00:39:42"
+  },
+  {
+   "name": "Staci Stahly",
+   "category": "Female 30-39",
+   "time": "00:40:58"
+  },
+  {
+   "name": "Stacey Walsh",
+   "category": "Female 50-59",
+   "time": "00:43:14"
+  },
+  {
+   "name": "Leah Osorio",
+   "category": "Female 30-39",
+   "time": "00:44:26"
+  },
+  {
+   "name": "Erin Houg",
+   "category": "Female 30-39",
+   "time": "00:44:27"
+  },
+  {
+   "name": "Colleen Watson",
+   "category": "Female 30-39",
+   "time": "00:44:44"
+  },
+  {
+   "name": "Aimee Monik",
+   "category": "Female 30-39",
+   "time": "00:44:46"
+  },
+  {
+   "name": "Shannon Donnelly",
+   "category": "Female 30-39",
+   "time": "00:44:47"
+  },
+  {
+   "name": "Jack Kashak",
+   "category": "Male 70+",
+   "time": "00:53:27"
+  },
+  {
+   "name": "Clarence Melion",
+   "category": "Male 70+",
+   "time": "00:54:41"
+  },
+  {
+   "name": "David Ralston",
+   "category": "Male 70+",
+   "time": "00:56:22"
+  },
+  {
+   "name": "Jason Birchmeier",
+   "category": "Male 30-39",
+   "time": "01:03:38"
+  },
+  {
+   "name": "Morningsun Kelly",
+   "category": "Female 60-69",
+   "time": "01:07:19"
+  },
+  {
+   "name": "Mary Stump",
+   "category": "Female 50-59",
+   "time": "01:07:20"
+  }
+ ]
+}

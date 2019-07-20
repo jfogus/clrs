@@ -1,0 +1,105 @@
+{
+ "race": "2019 Jennie Hamilton Memorial 5 Miler",
+ "results": [
+  {
+   "name": "Nate Schaffer",
+   "category": "Male 40-49",
+   "time": "00:35:35"
+  },
+  {
+   "name": "Richard Conn",
+   "category": "Male 40-49",
+   "time": "00:40:16"
+  },
+  {
+   "name": "Dave Graughan",
+   "category": "Male 50-59",
+   "time": "00:43:07"
+  },
+  {
+   "name": "Grant Spiritoso",
+   "category": "Male 20-29",
+   "time": "00:49:27"
+  },
+  {
+   "name": "Jody Brown",
+   "category": "Female 40-49",
+   "time": "00:50:13"
+  },
+  {
+   "name": "Patty Rawlings",
+   "category": "Female 50-59",
+   "time": "00:52:29"
+  },
+  {
+   "name": "Andrew Klein",
+   "category": "Male 20-29",
+   "time": "00:55:10"
+  },
+  {
+   "name": "Amber Eckert",
+   "category": "Female 30-39",
+   "time": "00:57:04"
+  },
+  {
+   "name": "Jeff Kors",
+   "category": "Male 30-39",
+   "time": "00:58:29"
+  },
+  {
+   "name": "Alyse Bruszeski",
+   "category": "Female 30-39",
+   "time": "00:59:20"
+  },
+  {
+   "name": "Edward Caccavle",
+   "category": "Male 40-49",
+   "time": "01:00:26"
+  },
+  {
+   "name": "Kathy Hilbrich",
+   "category": "Female 60-69",
+   "time": "01:00:36"
+  },
+  {
+   "name": "Travis Nay",
+   "category": "Male 40-49",
+   "time": "01:01:59"
+  },
+  {
+   "name": "Cristin Newby",
+   "category": "Female 30-39",
+   "time": "01:07:33"
+  },
+  {
+   "name": "Tom Hutmacher",
+   "category": "Male 70-79",
+   "time": "01:11:09"
+  },
+  {
+   "name": "Andrea Eggleston",
+   "category": "Female 40-49",
+   "time": "01:15:14"
+  },
+  {
+   "name": "David Ralston",
+   "category": "Male 70-79",
+   "time": "01:19:28"
+  },
+  {
+   "name": "Scot Rains",
+   "category": "Male 80-89",
+   "time": "01:20:50"
+  },
+  {
+   "name": "Morningsun Kelly",
+   "category": "Female 60-69",
+   "time": "01:33:59"
+  },
+  {
+   "name": "Julia Nay",
+   "category": "Female 40-49",
+   "time": "01:34:00"
+  }
+ ]
+}

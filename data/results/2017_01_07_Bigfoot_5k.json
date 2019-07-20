@@ -1,0 +1,150 @@
+{
+ "race": "2017 Bigfoot 5k",
+ "results": [
+  {
+   "name": "John Borman",
+   "category": "Male 30-39",
+   "time": "00:26:14"
+  },
+  {
+   "name": "Maxwell Rehlander",
+   "category": "Male 20-29",
+   "time": "00:27:19"
+  },
+  {
+   "name": "Jana Cram",
+   "category": "Female 30-39",
+   "time": "00:29:11"
+  },
+  {
+   "name": "Brian Norrick",
+   "category": "Male 60-69",
+   "time": "00:30:48"
+  },
+  {
+   "name": "Frank Good",
+   "category": "Male 30-39",
+   "time": "00:35:05"
+  },
+  {
+   "name": "William Olson",
+   "category": "Male 50-59",
+   "time": "00:35:25"
+  },
+  {
+   "name": "Mikalene Stoker",
+   "category": "Female 40-49",
+   "time": "00:38:41"
+  },
+  {
+   "name": "Melayna Kyle",
+   "category": "Female 15 Under",
+   "time": "00:38:48"
+  },
+  {
+   "name": "Jeff Wright",
+   "category": "Male 50-59",
+   "time": "00:38:49"
+  },
+  {
+   "name": "Mark Grabill",
+   "category": "Male 40-49",
+   "time": "00:39:16"
+  },
+  {
+   "name": "Brett Jones",
+   "category": "Male 30-39",
+   "time": "00:39:28"
+  },
+  {
+   "name": "Michelle Wilson",
+   "category": "Female 40-49",
+   "time": "00:41:13"
+  },
+  {
+   "name": "Kathy Hilbrich",
+   "category": "Female 60-69",
+   "time": "00:41:41"
+  },
+  {
+   "name": "Tom Hutmacher",
+   "category": "Male 60-69",
+   "time": "00:41:53"
+  },
+  {
+   "name": "Dave Brown",
+   "category": "Male 60-69",
+   "time": "00:42:45"
+  },
+  {
+   "name": "Cooper Aftowski",
+   "category": "Female 15 Under",
+   "time": "00:57:28"
+  },
+  {
+   "name": "Scott Aftowski",
+   "category": "Male 40-49",
+   "time": "00:57:32"
+  },
+  {
+   "name": "Aidan Griffin",
+   "category": "Male 15 Under",
+   "time": "00:59:20"
+  },
+  {
+   "name": "Wesley Griffith",
+   "category": "Male 40-49",
+   "time": "00:59:21"
+  },
+  {
+   "name": "Leann Olson",
+   "category": "Female 40-49",
+   "time": "01:05:04"
+  },
+  {
+   "name": "Laura Lyon",
+   "category": "Female 40-49",
+   "time": "01:05:05"
+  },
+  {
+   "name": "Rebekkah Liss",
+   "category": "Female 20-29",
+   "time": "01:05:10"
+  },
+  {
+   "name": "Tanya Toth",
+   "category": "Female 40-49",
+   "time": "01:06:14"
+  },
+  {
+   "name": "Jason Birchmeier",
+   "category": "Male 30-39",
+   "time": "01:07:06"
+  },
+  {
+   "name": "Norma Risner Garner",
+   "category": "Female 40-49",
+   "time": "01:08:56"
+  },
+  {
+   "name": "Rhonda Graves",
+   "category": "Female 40-49",
+   "time": "01:08:57"
+  },
+  {
+   "name": "Shelly McGinty",
+   "category": "Female 40-49",
+   "time": "01:10:20"
+  },
+  {
+   "name": "Donna Riedel",
+   "category": "Female 40-49",
+   "time": "01:10:21"
+  },
+  {
+   "name": "Derick Thielbar",
+   "category": "Male 40-49",
+   "time": "01:10:49"
+  }
+ ]
+}

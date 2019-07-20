@@ -1,0 +1,65 @@
+{
+ "race": "2015 Superhero 5k",
+ "results": [
+  {
+   "name": "William Scharp",
+   "category": "Male 30-39",
+   "time": "00:22:15"
+  },
+  {
+   "name": "Craig Miller",
+   "category": "Male 50-59",
+   "time": "00:23:17"
+  },
+  {
+   "name": "Kari Sacks",
+   "category": "Female 30-39",
+   "time": "00:37:28"
+  },
+  {
+   "name": "Karen Klaus",
+   "category": "Female 40-49",
+   "time": "00:37:30"
+  },
+  {
+   "name": "Dan Grenough",
+   "category": "Male 40-49",
+   "time": "00:37:32"
+  },
+  {
+   "name": "Denise Sawyer",
+   "category": "Female 50-59",
+   "time": "00:48:58"
+  },
+  {
+   "name": "Dewayne Newson",
+   "category": "Male 40-49",
+   "time": "00:49:03"
+  },
+  {
+   "name": "Derick Thielbar",
+   "category": "Male 40-49",
+   "time": "00:50:47"
+  },
+  {
+   "name": "Alicia Salamanca",
+   "category": "Female 15 Under",
+   "time": "00:51:53"
+  },
+  {
+   "name": "Luis Salamanca",
+   "category": "Male 30-39",
+   "time": "00:51:54"
+  },
+  {
+   "name": "Joyann Torrez",
+   "category": "Female 40-49",
+   "time": "00:53:38"
+  },
+  {
+   "name": "Erica Avila",
+   "category": "Female 30-39",
+   "time": "00:53:41"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "parks": [
+  {
+   "id": 1,
+   "name": "Sunset Hill Farm County Park",
+   "address": "775 Meridian Rd., Valparaiso, IN"
+  },
+  {
+   "id": 2,
+   "name": "Hawthorne Park",
+   "address": "500 Ackerman Dr., Porter, IN"
+  },
+  {
+   "id": 3,
+   "name": "Creek Ridge County Park",
+   "address": "7943 W 400 N, Michigan City, IN"
+  },
+  {
+   "id": 4,
+   "name": "Bluhm County Park",
+   "address": "3855 S 1100 W, Westville, IN"
+  },
+  {
+   "id": 5,
+   "name": "Oak Ridge Prairie & Oak Savannah Trail",
+   "address": "301 S Colfax St., Griffith, IN"
+  },
+  {
+   "id": 6,
+   "name": "Devil's Backbone Open Space",
+   "address": "1725 Hidden Valley Dr., Loveland, CO"
+  },
+  {
+   "id": 7,
+   "name": "Stoney Run County Park",
+   "address": "9230 E 142nd Ave, Hebron, IN"
+  },
+  {
+   "id": 8,
+   "name": "Red Mill County Park",
+   "address": "0185 S Holmesville Rd., La Porte, IN"
+  }
+ ]
+}

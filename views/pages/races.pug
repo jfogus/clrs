@@ -1,0 +1,46 @@
+extends ../templates/default.pug
+
+block prepend nav
+    -var path = '../';
+    -var racesActive = " active";
+
+block append main
+    div(class='races_content container' id='races')
+        -var reverse = [' order-last', ' order-first']
+        -var order = []
+        each race, i in races
+            if i % 2 == 1
+                -order = reverse
+            else
+                -order = ["", ""]
+            div(class='card mb-5')
+                div(id=race.date.device.substr(0,10) class='row no-gutters')
+                    div(class='col-md-5 col-12' + order[0])
+                        img(class='card-img' src=path + 'img/' + race.images.still)
+                    div(class='col-md-7 col-12' + order[1])
+                        div(class='card-body')
+                            h3(class='card-title')= race.name
+                            div(class='race_details container')
+                                div(class='row')
+                                    div(class='col-6')
+                                        dl
+                                            dt When:
+                                            dd
+                                                time(datetime=race.date.device+'T'+race.time.device)= race.date.human + ', ' + race.time.human
+                                            dt Where:
+                                            dd= race.park.name
+                                            dd= race.park.address
+                                    div(class='col-6')
+                                        dl
+                                            dt Fees:
+                                            each fee in race.fees
+                                                dd= fee
+                                            dt Sign-Up:
+                                            dd
+                                                a(href=race.form target="_blank") Race Roster
+                                div(class='btn_container')
+                                    a(class='btn btn-large btn-primary info_button' href='#') Description
+                            div(class='race_desc')
+                                div!= race.description.long
+                                div(class='btn_container')
+                                    a(class='btn btn-large btn-primary info_button' href='#') Details

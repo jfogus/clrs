@@ -1,0 +1,85 @@
+{
+ "race": "2016 Crazy 8s",
+ "results": [
+  {
+   "name": "Jared Goodall",
+   "category": "Male 30-39",
+   "time": "01:12:04"
+  },
+  {
+   "name": "Dara Grady",
+   "category": "Female 30-39",
+   "time": "01:15:42"
+  },
+  {
+   "name": "Scott Ransberry",
+   "category": "Male 30-39",
+   "time": "01:18:18"
+  },
+  {
+   "name": "Linda Murkve",
+   "category": "Female 40-49",
+   "time": "01:24:13"
+  },
+  {
+   "name": "Mike Biggio",
+   "category": "Male 20-29",
+   "time": "01:24:58"
+  },
+  {
+   "name": "David Wolfe",
+   "category": "Male 50-59",
+   "time": "01:26:00"
+  },
+  {
+   "name": "Ruth Estrada",
+   "category": "Female 40-49",
+   "time": "01:29:45"
+  },
+  {
+   "name": "Justine Helminiak",
+   "category": "Female 40-49",
+   "time": "01:42:48"
+  },
+  {
+   "name": "Dannette Whiting",
+   "category": "Female 40-49",
+   "time": "01:44:41"
+  },
+  {
+   "name": "Tara Fox",
+   "category": "Female 30-39",
+   "time": "01:45:29"
+  },
+  {
+   "name": "Ross Miller",
+   "category": "Male 30-39",
+   "time": "01:53:00"
+  },
+  {
+   "name": "Jamie Miller",
+   "category": "Female 30-39",
+   "time": "01:53:00"
+  },
+  {
+   "name": "Doug Spencer",
+   "category": "Male 20-29",
+   "time": "02:11:42"
+  },
+  {
+   "name": "Robert Gross",
+   "category": "Male 40-49",
+   "time": "02:11:42"
+  },
+  {
+   "name": "Robert Winget",
+   "category": "Male 30-39",
+   "time": "02:17:39"
+  },
+  {
+   "name": "Mitch Harper",
+   "category": "Male 50-59",
+   "time": "02:21:00"
+  }
+ ]
+}

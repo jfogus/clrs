@@ -1,0 +1,245 @@
+{
+ "race": "2016 Jennie Hamilton Memorial 5 Mile",
+ "results": [
+  {
+   "name": "Tim Huber",
+   "category": "Male 20-29",
+   "time": "00:32:38"
+  },
+  {
+   "name": "Ralph Nurse",
+   "category": "Male 30-39",
+   "time": "00:33:45"
+  },
+  {
+   "name": "John Borman",
+   "category": "Male 30-39",
+   "time": "00:35:12"
+  },
+  {
+   "name": "Michael Drazer",
+   "category": "Male 30-39",
+   "time": "00:36:56"
+  },
+  {
+   "name": "Jim Kyle",
+   "category": "Male 50-59",
+   "time": "00:37:39"
+  },
+  {
+   "name": "Alan Jones",
+   "category": "Male 40-49",
+   "time": "00:38:31"
+  },
+  {
+   "name": "Scott Ransberry",
+   "category": "Male 30-39",
+   "time": "00:41:27"
+  },
+  {
+   "name": "Karen Spoor",
+   "category": "Female 40-49",
+   "time": "00:43:22"
+  },
+  {
+   "name": "Nicholas Emmans",
+   "category": "Male 20-29",
+   "time": "00:44:34"
+  },
+  {
+   "name": "Elaine Hendricks",
+   "category": "Female 50-59",
+   "time": "00:44:39"
+  },
+  {
+   "name": "Will Geeve",
+   "category": "Male 40-49",
+   "time": "00:45:51"
+  },
+  {
+   "name": "Deborah Brann",
+   "category": "Female 40-49",
+   "time": "00:47:12"
+  },
+  {
+   "name": "Ruben Sanchez",
+   "category": "Male 50-59",
+   "time": "00:47:27"
+  },
+  {
+   "name": "Amy Maciejewski",
+   "category": "Female 20-29",
+   "time": "00:47:27"
+  },
+  {
+   "name": "Emily Morrison",
+   "category": "Female 16-19",
+   "time": "00:48:23"
+  },
+  {
+   "name": "Luis Salamanca",
+   "category": "Male 30-39",
+   "time": "00:48:23"
+  },
+  {
+   "name": "Jean Jannasch",
+   "category": "Female 60-69",
+   "time": "00:48:34"
+  },
+  {
+   "name": "Lori Morlan",
+   "category": "Female 40-49",
+   "time": "00:49:02"
+  },
+  {
+   "name": "Bill Hanson",
+   "category": "Male 50-59",
+   "time": "00:49:03"
+  },
+  {
+   "name": "Devin Fox",
+   "category": "Female 20-29",
+   "time": "00:49:05"
+  },
+  {
+   "name": "Christine Dunphy",
+   "category": "Female 20-29",
+   "time": "00:49:17"
+  },
+  {
+   "name": "Bradley Dalrymple",
+   "category": "Male 20-29",
+   "time": "00:49:25"
+  },
+  {
+   "name": "Whitewolf Kelly",
+   "category": "Male 60-69",
+   "time": "00:49:38"
+  },
+  {
+   "name": "Evelyn Hanson",
+   "category": "Female 20-29",
+   "time": "00:50:04"
+  },
+  {
+   "name": "Karl Bauer",
+   "category": "Male 40-49",
+   "time": "00:51:33"
+  },
+  {
+   "name": "Megan Drazer",
+   "category": "Female 20-29",
+   "time": "00:52:42"
+  },
+  {
+   "name": "Mike Steinhubel",
+   "category": "Male 50-59",
+   "time": "00:53:34"
+  },
+  {
+   "name": "Sandy Hackett",
+   "category": "Female 50-59",
+   "time": "00:54:21"
+  },
+  {
+   "name": "Travis Nay",
+   "category": "Male 40-49",
+   "time": "00:54:42"
+  },
+  {
+   "name": "Harold Clark",
+   "category": "Male 40-49",
+   "time": "00:55:39"
+  },
+  {
+   "name": "Tara Fox",
+   "category": "Female 30-39",
+   "time": "00:56:08"
+  },
+  {
+   "name": "Tom Hutmacher",
+   "category": "Male 60-69",
+   "time": "00:57:48"
+  },
+  {
+   "name": "Terri Steinhubel",
+   "category": "Female 40-49",
+   "time": "00:57:52"
+  },
+  {
+   "name": "Michelle Draschil",
+   "category": "Female 30-39",
+   "time": "00:58:16"
+  },
+  {
+   "name": "Kathy Hilbrich",
+   "category": "Female 60-69",
+   "time": "00:58:35"
+  },
+  {
+   "name": "Kathy Hanson",
+   "category": "Female 50-59",
+   "time": "00:59:16"
+  },
+  {
+   "name": "Dawn Geeve",
+   "category": "Female 40-49",
+   "time": "01:00:48"
+  },
+  {
+   "name": "Julia Nay",
+   "category": "Female 40-49",
+   "time": "01:01:46"
+  },
+  {
+   "name": "Joanne Baitup",
+   "category": "Female 50-59",
+   "time": "01:02:20"
+  },
+  {
+   "name": "Jane Fuller",
+   "category": "Female 60-69",
+   "time": "01:06:17"
+  },
+  {
+   "name": "Polly Theising",
+   "category": "Female 60-69",
+   "time": "01:08:05"
+  },
+  {
+   "name": "Robert Gross",
+   "category": "Male 40-49",
+   "time": "01:13:24"
+  },
+  {
+   "name": "Doug Spencer",
+   "category": "Male 20-29",
+   "time": "01:13:37"
+  },
+  {
+   "name": "Jennifer Gross",
+   "category": "Female 30-39",
+   "time": "01:13:42"
+  },
+  {
+   "name": "Lisa Moreno",
+   "category": "Female 40-49",
+   "time": "01:14:37"
+  },
+  {
+   "name": "Elizabeth Fleszewski",
+   "category": "Female 20-29",
+   "time": "01:18:07"
+  },
+  {
+   "name": "Dan Sturgell",
+   "category": "Male 60-69",
+   "time": "01:37:08"
+  },
+  {
+   "name": "Morningsun Kelly",
+   "category": "Female 60-69",
+   "time": "01:55:24"
+  }
+ ]
+}

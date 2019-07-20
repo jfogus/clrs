@@ -1,0 +1,155 @@
+{
+ "race": "2017 IG 8 Mile",
+ "results": [
+  {
+   "name": "Cole Johnson",
+   "category": "Male 30-39",
+   "time": "00:59:26"
+  },
+  {
+   "name": "Michael Drazer",
+   "category": "Male 30-39",
+   "time": "01:03:14"
+  },
+  {
+   "name": "Nate Shaffer",
+   "category": "Male 40-49",
+   "time": "01:03:52"
+  },
+  {
+   "name": "Eric Ginsburg",
+   "category": "Male 50-59",
+   "time": "01:04:20"
+  },
+  {
+   "name": "Dara Grady",
+   "category": "Female 40-49",
+   "time": "01:05:51"
+  },
+  {
+   "name": "Heather Henderlong",
+   "category": "Female 40-49",
+   "time": "01:06:46"
+  },
+  {
+   "name": "Andrew Feder",
+   "category": "Male 20-29",
+   "time": "01:10:12"
+  },
+  {
+   "name": "Clark Gloyeske",
+   "category": "Male 50-59",
+   "time": "01:16:24"
+  },
+  {
+   "name": "Jared Goodall",
+   "category": "Male 30-39",
+   "time": "01:19:35"
+  },
+  {
+   "name": "Evan Acher",
+   "category": "Male 15 Under",
+   "time": "01:21:51"
+  },
+  {
+   "name": "Mark Acher",
+   "category": "Male 40-49",
+   "time": "01:21:51"
+  },
+  {
+   "name": "Jennifer Boster",
+   "category": "Female 30-39",
+   "time": "01:24:46"
+  },
+  {
+   "name": "Amy Maciejewski",
+   "category": "Female 20-29",
+   "time": "01:26:07"
+  },
+  {
+   "name": "Salvador Mutka",
+   "category": "Male 50-59",
+   "time": "01:26:19"
+  },
+  {
+   "name": "Dawn Vamos",
+   "category": "Female 40-49",
+   "time": "01:26:35"
+  },
+  {
+   "name": "Nieves Amado Gomez",
+   "category": "Female 30-39",
+   "time": "01:26:54"
+  },
+  {
+   "name": "Denna Albano",
+   "category": "Female 50-59",
+   "time": "01:30:21"
+  },
+  {
+   "name": "Dean Bricker",
+   "category": "Male 40-49",
+   "time": "01:30:43"
+  },
+  {
+   "name": "Tom Hutmacher",
+   "category": "Male 60-69",
+   "time": "01:32:05"
+  },
+  {
+   "name": "Jeff Kolar",
+   "category": "Male 40-49",
+   "time": "01:37:05"
+  },
+  {
+   "name": "Robyn Kramer",
+   "category": "Female 30-39",
+   "time": "01:38:32"
+  },
+  {
+   "name": "Jeff Wright",
+   "category": "Male 50-59",
+   "time": "01:38:49"
+  },
+  {
+   "name": "Rachael Broadus",
+   "category": "Female 20-29",
+   "time": "01:41:35"
+  },
+  {
+   "name": "Tim Timpe",
+   "category": "Male 30-39",
+   "time": "01:43:20"
+  },
+  {
+   "name": "Lori Johnson",
+   "category": "Female 40-49",
+   "time": "01:43:56"
+  },
+  {
+   "name": "Susan Kretz",
+   "category": "Female 30-39",
+   "time": "01:43:57"
+  },
+  {
+   "name": "Matthew Hoholek",
+   "category": "Male 40-49",
+   "time": "01:45:26"
+  },
+  {
+   "name": "Dan Sturgell",
+   "category": "Male 60-69",
+   "time": "01:49:14"
+  },
+  {
+   "name": "Polly Theising",
+   "category": "Female 60-69",
+   "time": "02:03:28"
+  },
+  {
+   "name": "Jane Fuller",
+   "category": "Female 70+",
+   "time": "02:15:49"
+  }
+ ]
+}

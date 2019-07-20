@@ -1,0 +1,36 @@
+.races_content {
+    .race_details {
+        display: none;
+    }
+
+    margin-bottom: 2em;
+}
+
+@media (max-width: 768px) {
+    .card {
+        img {
+            width: 50%;
+            display: block;
+            margin: auto;
+        }
+    }
+    .race_details {
+        margin-top: 0;
+    }
+
+    .order_first {
+        order: 13;
+    }
+
+    .order-last {
+        order: -1;
+    }
+}
+
+@media (max-width: 450px) {
+    .card {
+        img {
+            width: 75%;
+        }
+    }
+}

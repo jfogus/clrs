@@ -1,0 +1,90 @@
+{
+ "race": "2014 Jennie Hamilton Memorial 5 Mile",
+ "results": [
+  {
+   "name": "Tom Mangel",
+   "category": "Male 50-59",
+   "time": "00:38:19"
+  },
+  {
+   "name": "Brian Norrick",
+   "category": "Male 50-59",
+   "time": "00:41:35"
+  },
+  {
+   "name": "Dave Wallingford",
+   "category": "Male 60-69",
+   "time": "00:43:31"
+  },
+  {
+   "name": "Emily Wallingford",
+   "category": "Female 20-29",
+   "time": "00:44:01"
+  },
+  {
+   "name": "John Kosmatka",
+   "category": "Male 60-69",
+   "time": "00:44:28"
+  },
+  {
+   "name": "Mike Steinhubel",
+   "category": "Male 50-59",
+   "time": "00:49:38"
+  },
+  {
+   "name": "Aubrey Brown",
+   "category": "Female 15 Under",
+   "time": "00:56:00"
+  },
+  {
+   "name": "Terri Steinhubel",
+   "category": "Female 40-49",
+   "time": "00:56:34"
+  },
+  {
+   "name": "Dean Hodbaum",
+   "category": "Male 40-49",
+   "time": "01:00:38"
+  },
+  {
+   "name": "Kelly Flannery",
+   "category": "Female 40-49",
+   "time": "01:00:57"
+  },
+  {
+   "name": "Alena Rau",
+   "category": "Female 20-29",
+   "time": "01:03:35"
+  },
+  {
+   "name": "Alyssa Adelsperger",
+   "category": "Female 20-29",
+   "time": "01:03:43"
+  },
+  {
+   "name": "Brian Brown",
+   "category": "Male 40-49",
+   "time": "01:08:00"
+  },
+  {
+   "name": "Joanne Kinner",
+   "category": "Female 50-59",
+   "time": "01:08:26"
+  },
+  {
+   "name": "Claire Brown",
+   "category": "Female 15 Under",
+   "time": "01:08:37"
+  },
+  {
+   "name": "Cathy Brown",
+   "category": "Female 40-49",
+   "time": "01:08:42"
+  },
+  {
+   "name": "Lisa Morgan",
+   "category": "Female 30-39",
+   "time": "01:09:27"
+  }
+ ]
+}

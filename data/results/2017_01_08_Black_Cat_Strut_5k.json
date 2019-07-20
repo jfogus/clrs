@@ -1,0 +1,50 @@
+{
+ "race": "2017 Black Cat Strut 5k",
+ "results": [
+  {
+   "name": "Lilly Maldia",
+   "category": "Female 15 Under",
+   "time": "00:23:29"
+  },
+  {
+   "name": "Josh Tudor",
+   "category": "Male 30-39",
+   "time": "00:23:59"
+  },
+  {
+   "name": "Kirk Martin",
+   "category": "Male 40-49",
+   "time": "00:25:40"
+  },
+  {
+   "name": "Will Maldia",
+   "category": "Male 15 Under",
+   "time": "00:36:36"
+  },
+  {
+   "name": "Bridget Wisdom",
+   "category": "Female 15 Under",
+   "time": "00:38:33"
+  },
+  {
+   "name": "Jo Munro",
+   "category": "Female 40-49",
+   "time": "00:39:46"
+  },
+  {
+   "name": "Michelle Deranek",
+   "category": "Female 50-59",
+   "time": "00:48:09"
+  },
+  {
+   "name": "Shelley Mcginty",
+   "category": "Female 40-49",
+   "time": "00:54:56"
+  },
+  {
+   "name": "Becky Raderstorf",
+   "category": "Female 40-49",
+   "time": "00:55:03"
+  }
+ ]
+}

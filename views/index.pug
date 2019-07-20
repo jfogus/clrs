@@ -1,0 +1,33 @@
+extend templates/default.pug
+
+block title
+    title Home | Crazy Legs Race Series
+
+block prepend nav
+    -var path = './';
+    -var indexActive = " active";
+
+block append main
+    div(class='info_section index_content container')
+        div(class='row card-group')
+            div(class='card border-0')
+                img(class='card-img-top rounded-circle w-50 mx-auto' src='img/clrsLogo.png')
+                div(class='card-body')
+                    h2(class='card-title') Crazy Legs Race Series
+                    p(class='card-text') The purpose of the Crazy Legs Race Series (CLRS) is to promote non-pavement races in 
+                        | the Northwest Indiana region through the development and management of new and existing 
+                        | races. At all of our events, you will experience a fun and challenging course design in 
+                        | a low-key atmosphere. Races will be held in parks or areas in the Lake, Porter, and Laporte counties.
+            div(class='card border-0')
+                img(class='card-img-top rounded-circle w-50 mx-auto' src='img/friends.png')
+                div(class='card-body')
+                    h2(class='card-title') Friends of CLRS
+                    include ./partials/_friends.pug
+            div(class='card border-0')
+                img(class='card-img-top rounded-circle w-50 mx-auto' src='img/paulStofko.jpg')
+                div(class='card-body')
+                    h2(class='card-title') About Paul
+                    p(class='card-text') Paul "Crazy Legs" Stofko is an ultra runner, race director, father, running coach, and personal trainer. 
+                        | He is also available to time small races and consult new race directors about the ins and outs of 
+                        | race directing. For more information, please e-mail him at 
+                        a(href='mailto:stofko121@yahoo.com') stofko121@yahoo.com.

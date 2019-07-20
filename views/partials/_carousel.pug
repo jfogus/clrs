@@ -1,0 +1,28 @@
+-var active = ''
+div(id='race_carousel' class='carousel slide')
+    ol(class='carousel-indicators')
+        each race, i in races
+            if i == 0
+                -active = 'active'
+            else
+                -active = ''
+            li(data-target='#race_carousel' data-slide-to=i class=active)
+    div(id='slideshow' class='carousel-inner')
+        each race, i in races
+            if i == 0
+                -active = ' active'
+            else
+                -active = ''
+            div(class='carousel-item' + active style='background-image:url(' + path + 'img/' + race.images.slide + ')')
+                div(class='race_info')
+                    h2(class='text-truncate')= race.name
+                    div!= race.description.short
+                    div(class='btn_container')
+                        a(class='btn btn-large btn-primary' href=path + 'pages/races.html#' + race.date.device.substr(0,10)) More Info
+    a(class='carousel-control-prev' role='button' data-slide='prev' href='#race_carousel')
+        span(class='carousel-control-prev-icon' aria-hidden='true')
+        span(class='sr-only') Previous
+    a(class='carousel-control-next' role='button' data-slide='next' href='#race_carousel')
+        span(class='carousel-control-next-icon' aria-hidden='true')
+        span(class='sr-only') Next
+                        

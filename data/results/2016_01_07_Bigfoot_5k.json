@@ -1,0 +1,75 @@
+{
+ "race": "2016 Bigfoot 5k",
+ "results": [
+  {
+   "name": "Zander Oehlman",
+   "category": "Male 15 Under",
+   "time": "00:30:32"
+  },
+  {
+   "name": "Dustin Oehlman",
+   "category": "Male 30-39",
+   "time": "00:30:33"
+  },
+  {
+   "name": "Andrew Braun",
+   "category": "Male 15 Under",
+   "time": "00:34:12"
+  },
+  {
+   "name": "Todd Bailey",
+   "category": "Male 40-49",
+   "time": "00:34:27"
+  },
+  {
+   "name": "Mark Braun",
+   "category": "Male 40-49",
+   "time": "00:34:38"
+  },
+  {
+   "name": "Patty Rawlings",
+   "category": "Female 50-59",
+   "time": "00:36:16"
+  },
+  {
+   "name": "Mark Grabill",
+   "category": "Male 40-49",
+   "time": "00:36:48"
+  },
+  {
+   "name": "Travis Nay",
+   "category": "Male 40-49",
+   "time": "00:38:39"
+  },
+  {
+   "name": "Allen Rawlings",
+   "category": "Male 50-59",
+   "time": "00:38:39"
+  },
+  {
+   "name": "Gavety Oehlman",
+   "category": "Male 15 Under",
+   "time": "00:48:46"
+  },
+  {
+   "name": "Danielle Oehlman",
+   "category": "Female 30-39",
+   "time": "00:48:47"
+  },
+  {
+   "name": "Julia Nay",
+   "category": "Female 40-49",
+   "time": "00:53:36"
+  },
+  {
+   "name": "Jason Birchmeier",
+   "category": "Male 30-39",
+   "time": "01:03:06"
+  },
+  {
+   "name": "Morningsun Kelly",
+   "category": "Female 60-69",
+   "time": "01:08:51"
+  }
+ ]
+}

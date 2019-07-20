@@ -1,0 +1,100 @@
+{
+ "race": "2018 Santa Dash 5k",
+ "results": [
+  {
+   "name": "Richard Conn",
+   "category": "Male 40-49",
+   "time": "00:21:59"
+  },
+  {
+   "name": "Craig Miller",
+   "category": "Male 50-59",
+   "time": "00:23:10"
+  },
+  {
+   "name": "Dave Graughar",
+   "category": "Male 50-59",
+   "time": "00:24:34"
+  },
+  {
+   "name": "Jody Brown",
+   "category": "Female 40-49",
+   "time": "00:25:14"
+  },
+  {
+   "name": "Todd Bailey",
+   "category": "Male 50-59",
+   "time": "00:27:35"
+  },
+  {
+   "name": "Roberto Smiertelny",
+   "category": "Male 15 Under",
+   "time": "00:27:57"
+  },
+  {
+   "name": "Tom Hutmacher",
+   "category": "Male 70-79",
+   "time": "00:31:40"
+  },
+  {
+   "name": "Kaitlin Doud",
+   "category": "Female 20-29",
+   "time": "00:33:34"
+  },
+  {
+   "name": "Kathy Hilbrich",
+   "category": "Female 60-69",
+   "time": "00:33:40"
+  },
+  {
+   "name": "Lisa Martinez",
+   "category": "Female 20-29",
+   "time": "00:34:51"
+  },
+  {
+   "name": "Jodi Pressel",
+   "category": "Female 50-59",
+   "time": "00:35:19"
+  },
+  {
+   "name": "Kenny Dillon",
+   "category": "Male 70-79",
+   "time": "00:35:30"
+  },
+  {
+   "name": "Brittany Sholtis",
+   "category": "Female 20-29",
+   "time": "00:38:41"
+  },
+  {
+   "name": "Jack Kashak",
+   "category": "Male 70-79",
+   "time": "00:39:12"
+  },
+  {
+   "name": "Scott Rains",
+   "category": "Male 80-89",
+   "time": "00:39:23"
+  },
+  {
+   "name": "Genevieve Koehler",
+   "category": "Female 50-59",
+   "time": "00:40:12"
+  },
+  {
+   "name": "David Ralston",
+   "category": "Male 70-79",
+   "time": "00:45:12"
+  },
+  {
+   "name": "Thalia Smiertelny",
+   "category": "Female 15 Under",
+   "time": "00:45:46"
+  },
+  {
+   "name": "Lisa Smiertenlny",
+   "category": "Female 40-49",
+   "time": "00:45:47"
+  }
+ ]
+}

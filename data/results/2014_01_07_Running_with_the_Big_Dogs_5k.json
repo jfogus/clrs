@@ -1,0 +1,85 @@
+{
+ "race": "2014 Running with the Big Dogs 5k",
+ "results": [
+  {
+   "name": "Rachael Marchand",
+   "category": "Female 20-29",
+   "time": "00:17:04"
+  },
+  {
+   "name": "Shawn MacRoberts",
+   "category": "Male 30-39",
+   "time": "00:17:05"
+  },
+  {
+   "name": "Ryan Kwiecinski",
+   "category": "Male 30-39",
+   "time": "00:18:47"
+  },
+  {
+   "name": "Annette Voegtlin",
+   "category": "Female 40-49",
+   "time": "00:23:13"
+  },
+  {
+   "name": "Jeff Voegtlin",
+   "category": "Male 40-49",
+   "time": "00:23:55"
+  },
+  {
+   "name": "Trish Taylor",
+   "category": "Female 30-39",
+   "time": "00:24:01"
+  },
+  {
+   "name": "Charles Burnett",
+   "category": "Male 30-39",
+   "time": "00:27:05"
+  },
+  {
+   "name": "Hailey Althoff",
+   "category": "Female 20-29",
+   "time": "00:28:30"
+  },
+  {
+   "name": "Deborah Burnett",
+   "category": "Female 30-39",
+   "time": "00:29:18"
+  },
+  {
+   "name": "Jenny Janosky",
+   "category": "Female 20-29",
+   "time": "00:29:24"
+  },
+  {
+   "name": "Cheryl Highlan",
+   "category": "Female 40-49",
+   "time": "00:30:53"
+  },
+  {
+   "name": "Cindy Hall",
+   "category": "Female 50-59",
+   "time": "00:35:33"
+  },
+  {
+   "name": "Aimee Monik",
+   "category": "Female 30-39",
+   "time": "00:36:27"
+  },
+  {
+   "name": "Max Monik",
+   "category": "Male 15 Under",
+   "time": "00:37:28"
+  },
+  {
+   "name": "James Monik",
+   "category": "Male 30-39",
+   "time": "00:37:29"
+  },
+  {
+   "name": "Lydia Sandoval",
+   "category": "Female 50-59",
+   "time": "00:40:54"
+  }
+ ]
+}
