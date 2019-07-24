@@ -2,7 +2,6 @@
 // on click hide parent
 // find sibling div of parent and show
 $(function() {
-    //- TODO: default race should be the most recent race. May need to change order of divs in results.pug
     var tar = window.location.hash;
     var recentResultDiv = $('.results_container > div:first-of-type');
     if (!tar || tar == '#results') {
@@ -13,7 +12,7 @@ $(function() {
 
     var truncArray = $('.race_info p');
     console.log(truncArray);
-    truncArray.each(i => {
+    truncArray.each(function(i) {
         $clamp(truncArray[i], {clamp: 2});
     });
     
