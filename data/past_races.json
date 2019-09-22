@@ -637,6 +637,30 @@
     "20.00 person by Jun 18, 2019",
     "25.00 person after Jun 18, 2019"
    ]
+  },
+  {
+   "name": "2019 Stache Dash 4 Miler",
+   "date": "2019-09-02",
+   "time": "09:00",
+   "park": 2,
+   "form": "https://raceroster.com/events/2019/21395/stache-dash-4-miler",
+   "fees": [
+    "20.00 person by Aug 24, 2019",
+    "25.00 person after Aug 24, 2019"
+   ]
+  },
+  {
+   "name": "2019 Nerds on the Run 5k Run/Walk",
+   "date": "2019-10-13",
+   "time": "09:00",
+   "park": 7,
+   "form": "https://raceroster.com/events/2019/24142/nerds-on-the-run-5k-runwalk",
+   "fees": [
+    "15.00 walker by Sep 9, 2019",
+    "20.00 walker after Sep 9, 2019",
+    "20.00 runner by Sep 9, 2019",
+    "25.00 runner after Sep 9, 2019"
+   ]
   }
  ]
 }
