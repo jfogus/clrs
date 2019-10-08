@@ -23,6 +23,8 @@ with open(newFile, 'r') as file:
         if datetime.strptime(race['date'], '%Y-%m-%d') <= datetime.today():
             indexesToMove.append(i)
 
+# TODO: if multiple being removed, i does not correctly reflect
+# the positions of the i>0th elements after the 0th is popped
 for i in indexesToMove:
     dataToMove.append(data['races'].pop(i))
 

@@ -1,0 +1,70 @@
+{
+    "race": "2019 Bigfoot 5k",
+    "results": [
+    {
+        "name": "Rob Earl",
+        "category": "Male 50-59",
+        "time": "00:27:52"
+    },
+    {
+        "name": "Leigh Dewar",
+        "category": "Male 20-29",
+        "time": "00:29:55"
+    },
+    {
+        "name": "Richard Conn",
+        "category": "Male 40-49",
+        "time": "00:30:02"
+    },
+    {
+        "name": "Dave Gaughan",
+        "category": "Male 50-59",
+        "time": "00:32:38"
+    },
+    {
+        "name": "Grant Spiritoso",
+        "category": "Male 20-29",
+        "time": "00:34:08"
+    },
+    {
+        "name": "Johnny Stimley",
+        "category": "Male 40-49",
+        "time": "00:34:24"
+    },
+    {
+        "name": "Christina Alexander",
+        "category": "Female 30-39",
+        "time": "00:37:00"
+    },
+    {
+        "name": "Bradley Robinson",
+        "category": "Male 30-39",
+        "time": "00:37:54"
+    },
+    {
+        "name": "Tom Hutmacher",
+        "category": "Male 70+",
+        "time": "00:39:07"
+    },
+    {
+        "name": "Margie Raudonis",
+        "category": "Female 40-49",
+        "time": "00:44:21"
+    },
+    {
+        "name": "Kimberly Jackson",
+        "category": "Female 40-49",
+        "time": "00:49:41"
+    },
+    {
+        "name": "David Ralston",
+        "category": "Male 70+",
+        "time": "01:09:10"
+    },
+    {
+        "name": "Jessica Bell",
+        "category": "Female 40-49",
+        "time": "01:09:10"
+    }
+    ]
+}

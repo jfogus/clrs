@@ -1,0 +1,85 @@
+{
+    "race": "2019 Bigfoot 5k",
+    "results": [
+    {
+        "name": "Christopher Sammetinger",
+        "category": "Male 30-39",
+        "time": "00:26:56"
+    },
+    {
+        "name": "Richard Conn",
+        "category": "Male 40-49",
+        "time": "00:28:10"
+    },
+    {
+        "name": "Jacob Wondsor",
+        "category": "Male 20-29",
+        "time": "00:30:12"
+    },
+    {
+        "name": "Maria Stamer",
+        "category": "Female 20-29",
+        "time": "00:31:23"
+    },
+    {
+        "name": "Todd Bailey",
+        "category": "Male 50-59",
+        "time": "00:34:01"
+    },
+    {
+        "name": "Tim Kennedy",
+        "category": "Male 50-59",
+        "time": "00:38:18"
+    },
+    {
+        "name": "Christina Alexander",
+        "category": "Female 30-39",
+        "time": "00:38:23"
+    },
+    {
+        "name": "Amelia Strzechowski",
+        "category": "Female 16-19",
+        "time": "00:38:24"
+    },
+    {
+        "name": "Clara Strzechowski",
+        "category": "Female 15 Under",
+        "time": "00:38:25"
+    },
+    {
+        "name": "Dana Huwig",
+        "category": "Female 30-39",
+        "time": "00:38:28"
+    },
+    {
+        "name": "Margie Raudonis",
+        "category": "Female 40-49",
+        "time": "00:40:43"
+    },
+    {
+        "name": "Heather Birk",
+        "category": "Female 40-49",
+        "time": "00:40:59"
+    },
+    {
+        "name": "Kathy Hilbrich",
+        "category": "Female 60-69",
+        "time": "00:44:00"
+    },
+    {
+        "name": "Murial Strzechowski",
+        "category": "15 Under",
+        "time": "00:44:03"
+    },
+    {
+        "name": "Larry Strzechowski",
+        "category": "Male 40-49",
+        "time": "00:44:03"
+    },
+    {
+        "name": "Kathy Wolff",
+        "category": "Female 40-49",
+        "time": "00:58:53"
+    }
+    ]
+}
