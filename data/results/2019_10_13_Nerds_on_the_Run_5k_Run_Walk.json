@@ -1,0 +1,85 @@
+{
+    "race": "Nerds on the Run 5k Run/Walk",
+    "results": [
+        {
+            "name": "Dave Gaughan",
+            "category": "Male 50-59",
+            "time": "00:21:03"
+        },
+        {
+            "name": "Maria Stamer",
+            "category": "Female 20-29",
+            "time": "00:21:15"
+        },
+        {
+            "name": "Carl Kurek",
+            "category": "Male 30-39",
+            "time": "00:25:00"
+        },
+        {
+            "name": "Kathy Hilbrich",
+            "category": "Female 60-69",
+            "time": "00:28:42"
+        },
+        {
+            "name": "Alexandra Byerly",
+            "category": "Female 20-29",
+            "time": "00:30:43"
+        },
+        {
+            "name": "Scott Byerly",
+            "category": "Male 60-69",
+            "time": "00:30:51"
+        },
+        {
+            "name": "Jessica Byerly",
+            "category": "Female 30-39",
+            "time": "00:30:54"
+        },
+        {
+            "name": "Denise Morley",
+            "category": "Female 60-69",
+            "time": "00:33:24"
+        },
+        {
+            "name": "Felicia Leclerc",
+            "category": "Female 15 Under",
+            "time": "00:35:23"
+        },
+        {
+            "name": "Kelly Flatt",
+            "category": "Female 30-39",
+            "time": "00:38:45"
+        },
+        {
+            "name": "Jack Kashak",
+            "category": "Male 70+",
+            "time": "00:39:06"
+        },
+        {
+            "name": "David Ralston",
+            "category": "Male 70+",
+            "time": "00:39:20"
+        },
+        {
+            "name": "Greg Morley",
+            "category": "Male 50-59",
+            "time": "00:39:25"
+        },
+        {
+            "name": "Tom Hutmacher",
+            "category": "Male 70+",
+            "time": "00:39:38"
+        },
+        {
+            "name": "Vivian Leclerc",
+            "category": "Female 15 Under",
+            "time": "00:44:59"
+        },
+        {
+            "name": "Richard Leclerc",
+            "category": "Male 40-49",
+            "time": "00:45:00"
+        }
+    ]
+}
