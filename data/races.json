@@ -1,19 +1,6 @@
 {
  "races": [
   {
-   "name": "2019 Black Cat Strut 5k Run/Walk",
-   "date": "2019-10-27",
-   "time": "09:00",
-   "park": 8,
-   "form": "https://raceroster.com/events/2019/21393/black-cat-strut-trail-5k-runwalk",
-   "fees": [
-    "20.00 runner by Oct 5, 2019",
-    "25.00 runner after Oct 5, 2019",
-    "10.00 walker by Oct 5, 2019",
-    "15.00 walker after Oct 5, 2019"
-   ]
-  },
-  {
    "name": "2019 Turkey Recovery 4 Miler",
    "date": "2019-12-01",
    "time": "09:00",
@@ -36,85 +23,85 @@
    ]
   },
   {
-    "name": "2020 Frozen 5k",
-    "date": "2020-01-12",
-    "time": "09:00",
-    "park": 3,
-    "form": "https://raceroster.com/events/2020/27458/frozen-5k-trail-run",
-    "fees": [
-     "20.00 person by Dec 31, 2020",
-     "25.00 person after Dec 31, 2020"
-    ]
-   },
-   {
-    "name": "2020 I Love Coffee 5k",
-    "date": "2020-01-26",
-    "time": "09:00",
-    "park": 2,
-    "form": "https://raceroster.com/events/2020/27456/i-love-coffee-5k",
-    "fees": [
-     "25.00 person by Jan 1, 2020",
-     "35.00 person after Jan 1, 2020"
-    ]
-   },
-   {
-    "name": "2020 Turkey Toss 4 Miler",
-    "date": "2020-02-09",
-    "time": "09:00",
-    "park": 2,
-    "form": "https://raceroster.com/events/2020/27496/turkey-toss-4-miler",
-    "fees": [
-     "15.00 person by Jan 30, 2020",
-     "20.00 person after Jan 30, 2020"
-    ]
-   },
-   {
-    "name": "2020 Yeti Trail Half",
-    "date": "2020-02-23",
-    "time": "08:00",
-    "park": 4,
-    "form": "https://raceroster.com/events/2020/27495/yeti-trail-half",
-    "fees": [
-     "40.00 person by Dec 23, 2020",
-     "50.00 person by Feb 12, 2020",
-     "60.00 person after Feb 12, 2020"
-    ]
-   },
-   {
-    "name": "2020 Forrest Gump Hump 5k",
-    "date": "2020-03-15",
-    "time": "09:00",
-    "park": 5,
-    "form": "https://raceroster.com/events/2020/27535/forrest-gump-hump-5k-trail-run",
-    "fees": [
-     "20.00 person by Mar 7, 2020",
-     "25.00 person after Mar 7, 2020"
-    ]
-   },
-   {
-    "name": "2020 Crazy Legs 10k+",
-    "date": "2020-06-07",
-    "time": "07:00",
-    "park": 6,
-    "form": "https://raceroster.com/events/2020/27283/crazy-legs-10k-trail-run",
-    "fees": [
-     "40.00 person by Jan 1, 2020",
-     "45.00 person by May 1, 2020",
-     "50.00 person after May 1, 2020"
-    ]
-   },
-   {
-    "name": "2020 Love is Love 5k Run/Walk",
-    "date": "2020-06-21",
-    "time": "08:00",
-    "park": 4,
-    "form": "https://raceroster.com/events/2020/27807/love-is-love-5k-runwalk",
-    "fees": [
-     "10.00 walker by May 23, 2020",
-     "15.00 walker after May 23, 2020",
-     "20.00 runner by May 23, 2020",
-     "25.00 runner after May 23, 2020"
-    ]
-   }
+   "name": "2020 Frozen 5k",
+   "date": "2020-01-12",
+   "time": "09:00",
+   "park": 3,
+   "form": "https://raceroster.com/events/2020/27458/frozen-5k-trail-run",
+   "fees": [
+    "20.00 person by Dec 31, 2020",
+    "25.00 person after Dec 31, 2020"
+   ]
+  },
+  {
+   "name": "2020 I Love Coffee 5k",
+   "date": "2020-01-26",
+   "time": "09:00",
+   "park": 2,
+   "form": "https://raceroster.com/events/2020/27456/i-love-coffee-5k",
+   "fees": [
+    "25.00 person by Jan 1, 2020",
+    "35.00 person after Jan 1, 2020"
+   ]
+  },
+  {
+   "name": "2020 Turkey Toss 4 Miler",
+   "date": "2020-02-09",
+   "time": "09:00",
+   "park": 2,
+   "form": "https://raceroster.com/events/2020/27496/turkey-toss-4-miler",
+   "fees": [
+    "15.00 person by Jan 30, 2020",
+    "20.00 person after Jan 30, 2020"
+   ]
+  },
+  {
+   "name": "2020 Yeti Trail Half",
+   "date": "2020-02-23",
+   "time": "08:00",
+   "park": 4,
+   "form": "https://raceroster.com/events/2020/27495/yeti-trail-half",
+   "fees": [
+    "40.00 person by Dec 23, 2020",
+    "50.00 person by Feb 12, 2020",
+    "60.00 person after Feb 12, 2020"
+   ]
+  },
+  {
+   "name": "2020 Forrest Gump Hump 5k",
+   "date": "2020-03-15",
+   "time": "09:00",
+   "park": 5,
+   "form": "https://raceroster.com/events/2020/27535/forrest-gump-hump-5k-trail-run",
+   "fees": [
+    "20.00 person by Mar 7, 2020",
+    "25.00 person after Mar 7, 2020"
+   ]
+  },
+  {
+   "name": "2020 Crazy Legs 10k+",
+   "date": "2020-06-07",
+   "time": "07:00",
+   "park": 6,
+   "form": "https://raceroster.com/events/2020/27283/crazy-legs-10k-trail-run",
+   "fees": [
+    "40.00 person by Jan 1, 2020",
+    "45.00 person by May 1, 2020",
+    "50.00 person after May 1, 2020"
+   ]
+  },
+  {
+   "name": "2020 Love is Love 5k Run/Walk",
+   "date": "2020-06-21",
+   "time": "08:00",
+   "park": 4,
+   "form": "https://raceroster.com/events/2020/27807/love-is-love-5k-runwalk",
+   "fees": [
+    "10.00 walker by May 23, 2020",
+    "15.00 walker after May 23, 2020",
+    "20.00 runner by May 23, 2020",
+    "25.00 runner after May 23, 2020"
+   ]
+  }
  ]
 }

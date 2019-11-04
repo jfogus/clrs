@@ -1,0 +1,30 @@
+{
+    "race": "Black Cat Strut 5k Run/Walk",
+    "results": [
+        {
+            "name": "Richard Conn",
+            "category": "Male 40-49",
+            "time": "00:27:28"
+        },
+        {
+            "name": "Dave Gaughan",
+            "category": "Male 50-59",
+            "time": "00:28:11"
+        },
+        {
+            "name": "Ruben Sanchez",
+            "category": "Male 60-69",
+            "time": "00:33:46"
+        },
+        {
+            "name": "Kathy Hilbrich",
+            "category": "Female 60-69",
+            "time": "00:38:47"
+        },
+        {
+            "name": "David Ralston",
+            "category": "Male 70+",
+            "time": "01:13:51"
+        }
+    ]
+}

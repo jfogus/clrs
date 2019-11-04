@@ -672,6 +672,19 @@
     "20.00 runner by Sep 9, 2019",
     "25.00 runner after Sep 9, 2019"
    ]
+  },
+  {
+   "name": "2019 Black Cat Strut 5k Run/Walk",
+   "date": "2019-10-27",
+   "time": "09:00",
+   "park": 8,
+   "form": "https://raceroster.com/events/2019/21393/black-cat-strut-trail-5k-runwalk",
+   "fees": [
+    "20.00 runner by Oct 5, 2019",
+    "25.00 runner after Oct 5, 2019",
+    "10.00 walker by Oct 5, 2019",
+    "15.00 walker after Oct 5, 2019"
+   ]
   }
  ]
 }
