@@ -17,7 +17,7 @@ block append main
 
         div(class='results_container')
             each year in Object.keys(results).sort().reverse()
-                each i in Object.keys(results[year]).sort().reverse()
+                each i in Object.keys(results[year]).reverse()
                     -var race = results[year][i]
                     div(class='result' id=race.name.replace(/-| |\+|\//g, '_'))
                         h3= race.name

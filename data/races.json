@@ -1,17 +1,6 @@
 {
  "races": [
   {
-   "name": "2019 Turkey Recovery 4 Miler",
-   "date": "2019-12-01",
-   "time": "09:00",
-   "park": 2,
-   "form": "https://raceroster.com/events/2019/21392/turkey-recovery-4-miler",
-   "fees": [
-    "20.00 person by Nov 10, 2019",
-    "25.00 person after Nov 10, 2019"
-   ]
-  },
-  {
    "name": "2019 Santa Dash 5k",
    "date": "2019-12-15",
    "time": "09:00",

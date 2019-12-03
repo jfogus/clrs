@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import os, sys, re, json
 from datetime import time
 
@@ -31,7 +32,7 @@ for file in os.listdir(resultsDir):
                             result['time'] = time(*[ int(x) for x in parts ]).strftime("%H:%M:%S")
                     jsonData['results'].append(result)
 
-# TODO EVERY TIME!!! - name file yyyy_mm_dd_name_length.txt
+# TODO EVERY TIME!!! - name file yyyy_mm_dd_Name_Length.txt
         jsonFileName = file[:-4] + '.json'
         with open(os.path.join('../data/results', jsonFileName), 'w') as jsonFile:
             json.dump(jsonData, jsonFile, indent=4)
