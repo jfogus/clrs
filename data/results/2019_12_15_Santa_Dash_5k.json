@@ -1,0 +1,105 @@
+{
+    "race": "santa dash 5k",
+    "results": [
+        {
+            "name": "John Borman",
+            "category": "Male 40-49",
+            "time": "00:23:39"
+        },
+        {
+            "name": "Richard Conn",
+            "category": "Male 40-49",
+            "time": "00:24:48"
+        },
+        {
+            "name": "Andrew Elderkin",
+            "category": "Male 40-49",
+            "time": "00:25:19"
+        },
+        {
+            "name": "Juan Keen",
+            "category": "Male 20-29",
+            "time": "00:26:35"
+        },
+        {
+            "name": "Timothy Alukas",
+            "category": "Male 40-49",
+            "time": "00:28:28"
+        },
+        {
+            "name": "Zane Biernat",
+            "category": "Male 15 Under",
+            "time": "00:28:29"
+        },
+        {
+            "name": "Steve Kearney",
+            "category": "Male 70+",
+            "time": "00:32:09"
+        },
+        {
+            "name": "Dean Bricker",
+            "category": "Male 40-49",
+            "time": "00:33:37"
+        },
+        {
+            "name": "Jan Andrews",
+            "category": "Female 50-59",
+            "time": "00:36:02"
+        },
+        {
+            "name": "Angela Maletta",
+            "category": "Female 30-39",
+            "time": "00:37:02"
+        },
+        {
+            "name": "Cassie Wolfe",
+            "category": "Female 20-29",
+            "time": "00:37:17"
+        },
+        {
+            "name": "Kathy Hilbrich",
+            "category": "Female 60-69",
+            "time": "00:37:33"
+        },
+        {
+            "name": "Heather Birk",
+            "category": "Female 40-49",
+            "time": "00:38:24"
+        },
+        {
+            "name": "Arcadus Hamilton",
+            "category": "Male 15 Under",
+            "time": "00:44:14"
+        },
+        {
+            "name": "David Ralston",
+            "category": "Male 70+",
+            "time": "00:50:26"
+        },
+        {
+            "name": "Jack Kashak",
+            "category": "Male 70+",
+            "time": "00:52:19"
+        },
+        {
+            "name": "Jane Fuller",
+            "category": "Female 70+",
+            "time": "00:53:20"
+        },
+        {
+            "name": "Kathy Wolff",
+            "category": "Female 40-49",
+            "time": "00:56:28"
+        },
+        {
+            "name": "Joy Hyzny",
+            "category": "Female 50-59",
+            "time": "00:57:38"
+        },
+        {
+            "name": "Lisa Hyzny",
+            "category": "Female 50-59",
+            "time": "00:58:06"
+        }
+    ]
+}
