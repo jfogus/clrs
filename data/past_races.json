@@ -707,6 +707,17 @@
     "20.00 person by Dec 1, 2019",
     "25.00 person after Dec 1, 2019"
    ]
+  },
+  {
+   "name": "2020 Frozen 5k",
+   "date": "2020-01-12",
+   "time": "09:00",
+   "park": 3,
+   "form": "https://raceroster.com/events/2020/27458/frozen-5k-trail-run",
+   "fees": [
+    "20.00 person by Dec 31, 2020",
+    "25.00 person after Dec 31, 2020"
+   ]
   }
  ]
 }
