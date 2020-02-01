@@ -718,6 +718,17 @@
     "20.00 person by Dec 31, 2020",
     "25.00 person after Dec 31, 2020"
    ]
+  },
+  {
+   "name": "2020 I Love Coffee 5k",
+   "date": "2020-01-26",
+   "time": "09:00",
+   "park": 2,
+   "form": "https://raceroster.com/events/2020/27456/i-love-coffee-5k",
+   "fees": [
+    "25.00 person by Jan 1, 2020",
+    "35.00 person after Jan 1, 2020"
+   ]
   }
  ]
 }
