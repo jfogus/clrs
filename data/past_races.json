@@ -729,6 +729,18 @@
     "25.00 person by Jan 1, 2020",
     "35.00 person after Jan 1, 2020"
    ]
+  },
+  {
+   "name": "2020 Yeti Trail Half",
+   "date": "2020-02-23",
+   "time": "08:00",
+   "park": 4,
+   "form": "https://raceroster.com/events/2020/27495/yeti-trail-half",
+   "fees": [
+    "40.00 person by Dec 23, 2020",
+    "50.00 person by Feb 12, 2020",
+    "60.00 person after Feb 12, 2020"
+   ]
   }
  ]
 }

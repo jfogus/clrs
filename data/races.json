@@ -1,29 +1,6 @@
 {
  "races": [
   {
-   "name": "2020 Turkey Toss 4 Miler",
-   "date": "2020-11-29",
-   "time": "09:00",
-   "park": 2,
-   "form": "https://raceroster.com/events/2020/27496/turkey-toss-4-miler",
-   "fees": [
-    "15.00 person by Jan 30, 2020",
-    "20.00 person after Jan 30, 2020"
-   ]
-  },
-  {
-   "name": "2020 Yeti Trail Half",
-   "date": "2020-02-23",
-   "time": "08:00",
-   "park": 4,
-   "form": "https://raceroster.com/events/2020/27495/yeti-trail-half",
-   "fees": [
-    "40.00 person by Dec 23, 2020",
-    "50.00 person by Feb 12, 2020",
-    "60.00 person after Feb 12, 2020"
-   ]
-  },
-  {
    "name": "2020 Forrest Gump Hump 5k",
    "date": "2020-03-15",
    "time": "09:00",
@@ -68,6 +45,17 @@
    "fees": [
     "20.00 person by Aug 28, 2020",
     "25.00 person after Aug 28, 2020"
+   ]
+  },
+  {
+   "name": "2020 Turkey Toss 4 Miler",
+   "date": "2020-11-29",
+   "time": "09:00",
+   "park": 2,
+   "form": "https://raceroster.com/events/2020/27496/turkey-toss-4-miler",
+   "fees": [
+    "15.00 person by Jan 30, 2020",
+    "20.00 person after Jan 30, 2020"
    ]
   }
  ]
