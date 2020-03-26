@@ -741,6 +741,17 @@
     "50.00 person by Feb 12, 2020",
     "60.00 person after Feb 12, 2020"
    ]
+  },
+  {
+   "name": "2020 Forrest Gump Hump 5k",
+   "date": "2020-03-15",
+   "time": "09:00",
+   "park": 5,
+   "form": "https://raceroster.com/events/2020/27535/forrest-gump-hump-5k-trail-run",
+   "fees": [
+    "20.00 person by Mar 7, 2020",
+    "25.00 person after Mar 7, 2020"
+   ]
   }
  ]
 }
