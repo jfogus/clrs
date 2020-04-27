@@ -1,18 +1,6 @@
 {
  "races": [
   {
-   "name": "2020 Crazy Legs 10k+",
-   "date": "2020-06-07",
-   "time": "07:00",
-   "park": 6,
-   "form": "https://raceroster.com/events/2020/27283/crazy-legs-10k-trail-run",
-   "fees": [
-    "40.00 person by Jan 1, 2020",
-    "45.00 person by May 1, 2020",
-    "50.00 person after May 1, 2020"
-   ]
-  },
-  {
    "name": "2020 Love is Love 5k Run/Walk",
    "date": "2020-06-21",
    "time": "08:00",
