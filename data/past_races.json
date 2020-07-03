@@ -752,6 +752,19 @@
     "20.00 person by Mar 7, 2020",
     "25.00 person after Mar 7, 2020"
    ]
+  },
+  {
+   "name": "2020 Love is Love 5k Run/Walk",
+   "date": "2020-06-21",
+   "time": "08:00",
+   "park": 4,
+   "form": "https://raceroster.com/events/2020/27807/love-is-love-5k-runwalk",
+   "fees": [
+    "10.00 walker by May 23, 2020",
+    "15.00 walker after May 23, 2020",
+    "20.00 runner by May 23, 2020",
+    "25.00 runner after May 23, 2020"
+   ]
   }
  ]
 }

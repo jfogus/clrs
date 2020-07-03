@@ -1,0 +1,100 @@
+{
+    "race": "Love is Love 5k RunWalk",
+    "results": [
+        {
+            "name": "Nick Mitchell",
+            "category": "Male 30-39",
+            "time": "00:21:33"
+        },
+        {
+            "name": "Craig Miller",
+            "category": "Male 50-59",
+            "time": "00:22:50"
+        },
+        {
+            "name": "Jody Brown",
+            "category": "Female 40-49",
+            "time": "00:23:37"
+        },
+        {
+            "name": "Holly Braford",
+            "category": "Female 30-39",
+            "time": "00:25:01"
+        },
+        {
+            "name": "Todd Bailey",
+            "category": "Male 50-59",
+            "time": "00:25:09"
+        },
+        {
+            "name": "Johnny Stimley",
+            "category": "Male 50-59",
+            "time": "00:29:30"
+        },
+        {
+            "name": "Jamie Miller",
+            "category": "Female 30-39",
+            "time": "00:31:06"
+        },
+        {
+            "name": "Kathy Hilbrich",
+            "category": "Female 60-69",
+            "time": "00:31:32"
+        },
+        {
+            "name": "Ed Caccavale",
+            "category": "Male 50-59",
+            "time": "00:31:57"
+        },
+        {
+            "name": "Ellery Denny",
+            "category": "Female 15 Under",
+            "time": "00:38:59"
+        },
+        {
+            "name": "Echo Denny",
+            "category": "Female 40-49",
+            "time": "00:39:01"
+        },
+        {
+            "name": "Katie Eaton",
+            "category": "Female 30-39",
+            "time": "00:41:10"
+        },
+        {
+            "name": "Mary Hollet",
+            "category": "Female 30-39",
+            "time": "00:42:04"
+        },
+        {
+            "name": "Barb Spitler",
+            "category": "Female 60-69",
+            "time": "00:49:13"
+        },
+        {
+            "name": "Connie Karras",
+            "category": "Female 50-59",
+            "time": "00:49:37"
+        },
+        {
+            "name": "Kristen Neria",
+            "category": "Female 40-49",
+            "time": "00:49:55"
+        },
+        {
+            "name": "April Shamon",
+            "category": "Female 40-49",
+            "time": "00:50:09"
+        },
+        {
+            "name": "Jennifer Bilby",
+            "category": "Female 40-49",
+            "time": "00:54:45"
+        },
+        {
+            "name": "David Ralston",
+            "category": "Male 70-79",
+            "time": "00:55:18"
+        }
+    ]
+}
