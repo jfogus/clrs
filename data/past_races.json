@@ -765,6 +765,38 @@
     "20.00 runner by May 23, 2020",
     "25.00 runner after May 23, 2020"
    ]
+  },
+  {
+   "name": "2020 Jennie Hamilton Memorial 5 Miler",
+   "date": "2020-07-05",
+   "time": "08:00",
+   "park": 7,
+   "form": "",
+   "fees": [
+    ""
+   ]
+  },
+  {
+   "name": "2020 Stache Dash 4 Miler",
+   "date": "2020-09-06",
+   "time": "09:00",
+   "park": 2,
+   "form": "https://raceroster.com/events/2020/28882/stache-dash-4-miler",
+   "fees": [
+    "20.00 person by Aug 28, 2020",
+    "25.00 person after Aug 28, 2020"
+   ]
+  },
+  {
+   "name": "2020 Bigfoot 5k",
+   "date": "2020-09-27",
+   "time": "09:00",
+   "park": 4,
+   "form": "https://raceroster.com/events/2020/28030/bigfoot-5k-trail-run",
+   "fees": [
+     "20.00 per person by Sep 6, 2020",
+     "25.00 per person by Sep 25, 2020"
+   ]
   }
  ]
 }

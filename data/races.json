@@ -1,17 +1,6 @@
 {
  "races": [
   {
-   "name": "2020 Stache Dash 4 Miler",
-   "date": "2020-09-06",
-   "time": "09:00",
-   "park": 2,
-   "form": "https://raceroster.com/events/2020/28882/stache-dash-4-miler",
-   "fees": [
-    "20.00 person by Aug 28, 2020",
-    "25.00 person after Aug 28, 2020"
-   ]
-  },
-  {
    "name": "2020 Black Cat Night Trail Run 5k",
    "date": "2020-10-16",
    "time": "18:30",
