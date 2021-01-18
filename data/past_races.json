@@ -794,8 +794,41 @@
    "park": 4,
    "form": "https://raceroster.com/events/2020/28030/bigfoot-5k-trail-run",
    "fees": [
-     "20.00 per person by Sep 6, 2020",
-     "25.00 per person by Sep 25, 2020"
+    "20.00 per person by Sep 6, 2020",
+    "25.00 per person by Sep 25, 2020"
+   ]
+  },
+  {
+   "name": "2020 Black Cat Night Trail Run 5k",
+   "date": "2020-10-16",
+   "time": "18:30",
+   "park": 4,
+   "form": "https://raceroster.com/events/2020/32213/black-cat-night-trail-run-5k",
+   "fees": [
+    "20.00 person by Aug 31, 2020",
+    "25.00 person after Aug 31, 2020"
+   ]
+  },
+  {
+   "name": "2020 Turkey Toss 4 Miler",
+   "date": "2020-11-29",
+   "time": "09:00",
+   "park": 2,
+   "form": "https://raceroster.com/events/2020/27496/turkey-toss-4-miler",
+   "fees": [
+    "15.00 person by Jan 30, 2020",
+    "20.00 person after Jan 30, 2020"
+   ]
+  },
+  {
+   "name": "2021 Crazy Legs 5k",
+   "date": "2021-01-02",
+   "time": "13:00",
+   "park": 3,
+   "form": "https://raceroster.com/events/2021/36575/crazy-legs-5k-trail-run",
+   "fees": [
+    "20.00 person by Dec 21, 2020",
+    "25.00 person after Dec 21, 2020"
    ]
   }
  ]
