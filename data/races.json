@@ -1,36 +1,71 @@
 {
  "races": [
   {
-   "name": "2021 I Love Coffee 5k",
-   "date": "2021-01-24",
-   "time": "09:00",
-   "park": 2,
-   "form": "https://raceroster.com/events/2021/36585/i-love-coffee-5k-road-run",
-   "fees": [
-    "20.00 person by Dec 28, 2020",
-    "25.00 person after Dec 28, 2020"
-   ]
-  },
-  {
-   "name": "2021 Yeti Trail Half",
-   "date": "2021-02-28",
+   "name": "2021 Love is Love 5k Run/Walk",
+   "date": "2021-06-27",
    "time": "08:00",
    "park": 4,
-   "form": "https://raceroster.com/events/2021/36588/yeti-trail-half",
+   "form": "https://raceroster.com/events/2021/40422/love-is-love-5k-runwalk",
    "fees": [
-    "45.00 person by Dec 27, 2020",
-    "55.00 person after Dec 27, 2020"
+    "15.00 person (walking) by May 29, 2021",
+    "20.00 person (walking) after May 29, 2021",
+    "25.00 person (running) by May 29, 2021",
+    "30.00 person (running) after May 29, 2021"
    ]
   },
   {
-   "name": "2021 Forrest Gump Hump 5k",
-   "date": "2021-03-14",
-   "time": "09:00",
-   "park": 5,
-   "form": "https://raceroster.com/events/2021/36592/forrest-gump-hump-5k-trail-run",
+   "name": "2021 Jennie Hamilton Memorial 5 Miler",
+   "date": "2021-07-11",
+   "time": "08:00",
+   "park": 7,
+   "form": "https://raceroster.com/events/2021/40421/jennie-hamilton-memorial-5-mile-trail-run",
    "fees": [
-    "20.00 person by Mar 6, 2020",
-    "25.00 person after Mar 6, 2020"
+    "25.00 person by Jun 21, 2021",
+    "30.00 person after Jun 21, 2021"
+   ]
+  },
+  {
+   "name": "2021 Stache Dash 4 Miler",
+   "date": "2021-09-05",
+   "time": "09:00",
+   "park": 2,
+   "form": "https://raceroster.com/events/2021/40418/stache-dash-4-miler",
+   "fees": [
+    "25.00 person by Aug 27, 2021",
+    "30.00 person after Aug 27, 2021"
+   ]
+  },
+  {
+   "name": "2021 Bigfoot 5k",
+   "date": "2021-09-26",
+   "time": "09:00",
+   "park": 8,
+   "form": "https://raceroster.com/events/2021/40417/bigfoot-5k-trail-run",
+   "fees": [
+    "25.00 person by Sep 5, 2021",
+    "30.00 person after Sep 5, 2021"
+   ]
+  },
+  {
+   "name": "2021 Black Cat Night 5k",
+   "date": "2021-10-16",
+   "time": "18:30",
+   "park": 4,
+   "form": "https://raceroster.com/events/2021/40413/black-cat-night-trail-run-5k",
+   "fees": [
+    "25.00 person by Aug 31, 2021",
+    "30.00 person after Aug 31, 2021"
+   ]
+  },
+  {
+   "name": "2021 Turkey Toss 5k",
+   "date": "2021-11-28",
+   "time": "09:00",
+   "park": 2,
+   "form": "https://raceroster.com/events/2021/40412/turkey-toss-5k",
+   "fees": [
+    "20.00 person by Nov 14, 2021",
+    "30.00 person after Nov 14, 2021"
    ]
   }
  ]
